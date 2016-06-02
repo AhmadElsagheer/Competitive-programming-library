@@ -64,7 +64,7 @@ public class Point implements Comparable<Point>{
 	boolean onRay(Point a, Point b)
 	{
 		if(a.compareTo(b) == 0) return compareTo(a) == 0;
-		return new Vector(a, b).normalize().equals(new Vector(a, this).normalize());
+		return new Vector(a, b).normalize().equals(new Vector(a, this).normalize());	//implement equals()
 	}
 	
 	// returns true if it is on the left side of Line pq
