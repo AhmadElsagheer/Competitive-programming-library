@@ -23,9 +23,10 @@ public class SegmentTree {		// 1-based DS, OOP
 			sTree[node] = array[b];
 		else						
 		{
-			build(node<<1,b,(b+e)/2);
-			build((node<<1)+1,(b+e)/2+1,e);
-			sTree[node] = sTree[node<<1]+sTree[(node<<1)+1];
+			int mid = b + e >> 1;
+			build(node<<1,b,mid);
+			build(node<<1|1,mid+1,e);
+			sTree[node] = sTree[node<<1]+sTree[node<<1|1];
 		}
 	}
 	
@@ -37,7 +38,7 @@ public class SegmentTree {		// 1-based DS, OOP
 		while(index>1)				
 		{
 			index >>= 1;
-			sTree[index] = sTree[index<<1] + sTree[(index<<1) + 1];		
+			sTree[index] = sTree[index<<1] + sTree[index<<1|1];		
 		}
 	}
 	
@@ -58,20 +59,20 @@ public class SegmentTree {		// 1-based DS, OOP
 		}							
 		else		
 		{
-			propagate(node, b, e);
-			update_range(node<<1,b,(b+e)/2,i,j,val);
-			update_range((node<<1)+1,(b+e)/2+1,e,i,j,val);
-			sTree[node] = sTree[node<<1] + sTree[(node<<1)+1];		
+			int mid = b + e >> 1;
+			propagate(node, b, mid, e);
+			update_range(node<<1,b,mid,i,j,val);
+			update_range(node<<1|1,mid+1,e,i,j,val);
+			sTree[node] = sTree[node<<1] + sTree[node<<1|1];		
 		}
 		
 	}
-	void propagate(int node, int b, int e)		
+	void propagate(int node, int b, int mid, int e)		
 	{
-		int mid = (b+e)/2;
 		lazy[node<<1] += lazy[node];
-		lazy[(node<<1)+1] += lazy[node];
+		lazy[node<<1|1] += lazy[node];
 		sTree[node<<1] += (mid-b+1)*lazy[node];		
-		sTree[(node<<1)+1] += (e-mid)*lazy[node];		
+		sTree[node<<1|1] += (e-mid)*lazy[node];		
 		lazy[node] = 0;
 	}
 	
@@ -86,9 +87,10 @@ public class SegmentTree {		// 1-based DS, OOP
 			return 0;		
 		if(b>= i && e <= j)
 			return sTree[node];
-		propagate(node, b, e);
-		int q1 = query(node<<1,b,(b+e)/2,i,j);
-		int q2 = query((node<<1)+1,(b+e)/2+1,e,i,j);
+		int mid = b + e >> 1;
+		propagate(node, b, mid, e);
+		int q1 = query(node<<1,b,mid,i,j);
+		int q2 = query(node<<1|1,mid+1,e,i,j);
 		return q1 + q2;	
 				
 	}
