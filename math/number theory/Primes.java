@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Primes {
 
 	/*
-	 * 1. Sieve of Eratosthenes: generate all primes [2, N]
+	 * 1. Sieve of Eratosthenes: generate all primes in [2, N]
 	 */
 	static ArrayList<Integer> primes;
 	static int[] isComposite;
@@ -22,7 +22,7 @@ public class Primes {
 	    	{
 	    		primes.add(i);
 	    		if(1l * i * i <= N)
-	    			for (int j = i * i; j <= N; j += i)	// j = i * 2 will not affect performance that much, needed in modified sieve
+	    			for (int j = i * i; j <= N; j += i)	// j = i * 2 will not affect performance too much, may alter in modified sieve
 	    				isComposite[j] = 1;
 	    	}   
 	}
@@ -30,14 +30,14 @@ public class Primes {
 	/*
 	 * 2. Primality Test
 	 * 
-	 *  Preprocessing: call sieve with sqrt(N)_ and loop till, O(sqrt(N) log log sqrt(N))
-	 *  Query: best case O(1), worst case O(sqrt(N) / log N)
+	 *  Preprocessing: call sieve with sqrt(N), O(sqrt(N) log log sqrt(N))
+	 *  Query: best case O(1), worst case O(sqrt(N) / log sqrt(N))
 	 */
 	static boolean isPrime(int N)
 	{
 		if(N < isComposite.length)
 			return isComposite[N] == 0;
-		for(int p: primes)
+		for(int p: primes)					//may stop if p * p > N
 			if(N%p==0)
 				return false;
 		return true;
