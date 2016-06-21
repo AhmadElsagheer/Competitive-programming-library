@@ -2,7 +2,11 @@ package graphs.traversal;
 
 import java.util.ArrayList;
 import java.util.Stack;
-public class TarjanSCC {
+
+/*
+ * Strongly Connected Components (Directed Graphs) - Tarjan's Algorithm (DFS Variant)
+ */
+public class StronglyConnectedComponents1 {
 
 	static ArrayList<Integer>[] adjList;
 	static int V, counter, SCC, dfs_num[], dfs_low[];
@@ -40,11 +44,6 @@ public class TarjanSCC {
 				if(v == u)
 					break;
 			}
-		}
-		
-		
-	}
-	
-	
-	
+		}	
+	}	
 }

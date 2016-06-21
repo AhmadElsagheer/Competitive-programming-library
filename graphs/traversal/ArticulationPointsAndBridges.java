@@ -2,19 +2,18 @@ package graphs.traversal;
 
 import java.util.ArrayList;
 
-//Try to test the implementation with some input of your choice
-public class Tarjan {
+/*
+ * Articulation Points and Bridges in Undirected Graphs - Tarjan's Algorithm (DFS Variant)
+ */
+public class ArticulationPointsAndBridges {
 
 	static ArrayList<Integer>[] adjList;
 	static int[] dfs_low, dfs_num, parent;
 	static int V, counter, root, rootChildren;
 	static boolean[] artPoints;
 
-	
 	static void findArtPointsAndBridges()	//O(V + E)
 	{
-
-
 		for(int i = 0; i < V; ++i)
 			if(dfs_num[i] == 0)
 			{
