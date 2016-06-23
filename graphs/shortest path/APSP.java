@@ -1,5 +1,8 @@
 package graphs.shortest_path;
 
+/*
+ * All-Pairs Shortest Path
+ */
 public class APSP {
 
 	static int[][] adjMatrix;
