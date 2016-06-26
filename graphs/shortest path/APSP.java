@@ -30,7 +30,8 @@ public class APSP {
 	
 	static void printPath(int i, int j)
 	{
-		if(i!=j) printPath(i,p[i][j]);
+		if(i != j) 					// use (P[i][j] != i) in case adjMat[i][i] != 0 
+			printPath(i,p[i][j]);	// i.e. paths of the form 1, 2, 3, 1 are allowed
 		System.out.print(j+" ");
 	}
 }
