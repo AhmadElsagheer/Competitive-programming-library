@@ -30,9 +30,7 @@ public class PrimeFactorization {
 	 */
 	static int sumDiv(int N)
 	{
-		int ans = 1;
-
-		int idx = 0, p = primes.get(0);
+		int ans = 1, idx = 0, p = primes.get(0);
 		while(p * p <= N)
 		{
 			int e = 0;
@@ -42,6 +40,26 @@ public class PrimeFactorization {
 		}
 		if(N != 1)
 			ans *= (pow(N, 2) - 1) / (N - 1);
+		return ans;
+	}
+	
+	/*
+	 * 3. Euler's Totient Function (Number of positive integers < N relatively prime to N)
+	 */
+	static int phi(int N)
+	{
+		int ans = N, idx = 0, p = primes.get(0);
+		while(p * p <= N)
+		{
+			if(N % p == 0)
+				ans -= ans / p;
+			while(N % p == 0)
+				N /= p;
+			p = primes.get(++idx);
+		}
+			
+		if(N != 1) 
+			ans -= ans / N;
 		return ans;
 	}
 
