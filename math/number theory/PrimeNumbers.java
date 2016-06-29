@@ -1,7 +1,6 @@
 package math.number_theory;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class PrimeNumbers {
 
@@ -41,30 +40,5 @@ public class PrimeNumbers {
 			if(N%p==0)
 				return false;
 		return true;
-	}
-
-
-	/*
-	 * 3. Generate square-free numbers (prime factorization doesn't include a factor with power > 1)
-	 * 	  Useful in inclusion-exclusion problems that need divisibility counting
-	 */
-	static void squareFree(int N)
-	{
-		int[] deg = new int[N + 1];				// deg[i] = no. of distinct prime factors of i
-		boolean[] squareFree = new boolean[N + 1];	
-		Arrays.fill(squareFree, true);
-
-		for(int i = 2; i <= N; ++i)
-			if(squareFree[i])
-			{
-				if(deg[i] == 0)
-					deg[i] = 1;
-				for(int j = 1; i * j <= N; ++j)
-					if(j > 1 && deg[i] == 1)
-						if(j % i == 0)
-							squareFree[i*j] = false;
-						else
-							deg[i*j]++;
-			}
 	}
 }

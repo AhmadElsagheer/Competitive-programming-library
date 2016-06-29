@@ -28,9 +28,10 @@ public class PrimeFactorization {
 	/*
 	 * 2. Sum of divisors of N
 	 */
-	static int sumDiv(int N)
+	static long sumDiv(int N)
 	{
-		int ans = 1, idx = 0, p = primes.get(0);
+		int idx = 0, p = primes.get(0);
+		long ans = 1;
 		while(p * p <= N)
 		{
 			int e = 0;
@@ -63,9 +64,9 @@ public class PrimeFactorization {
 		return ans;
 	}
 
-	static int pow(int a, int n)
+	static long pow(long a, int n)
 	{
-		int res = 1;
+		long res = 1;
 		while(n != 0)
 		{
 			if((n & 1) == 1)
