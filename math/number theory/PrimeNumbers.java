@@ -41,4 +41,27 @@ public class PrimeNumbers {
 				return false;
 		return true;
 	}
+	
+	/*
+	 * 3. Sieve of Eratostheses in linear time
+	 */
+	static void sieveLinear(int N)
+	{
+		ArrayList<Integer> primes = new ArrayList<Integer>();
+		int[] lp = new int[N + 1];								//lp[i] = least prime divisor of i
+		for(int i = 2; i <= N; ++i)
+		{
+			if(lp[i] == 0)
+			{
+				primes.add(i);
+				lp[i] = i;
+			}
+			int curLP = lp[i];
+			for(int p: primes)
+				if(p > curLP || p * i > N)
+					break;
+				else
+					lp[p * i] = i;
+		}
+	}
 }
