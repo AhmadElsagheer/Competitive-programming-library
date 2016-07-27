@@ -3,12 +3,12 @@ package graphs.traversal;
 import java.util.ArrayList;
 import java.util.Stack;
 
-// Strongly Connected Components of a directed graph
+// Kosaraju's Algorithm: Finding Strongly Connected Components of a directed graph
 
 public class KosarajuAlgorithm {
 	
 	static int N;
-	static ArrayList<Integer>[] adjList, adjListTranspose;
+	static ArrayList<Integer>[] adjList, adjListR, graph;
 	static Stack<Integer> stack;
 	static boolean[] visited;
 	static int SCC;
@@ -18,58 +18,35 @@ public class KosarajuAlgorithm {
 	{
 		stack = new Stack<Integer>();
 		visited = new boolean[N];
+		graph = adjList;
 		for(int i = 0; i < N; ++i)
 			if(!visited[i])
-				dfs(i, adjList, true);
-		
-		reverse();
+				dfs(i, true);
 		
 		visited = new boolean[N];
+		graph = adjListR;
 		SCC = 0;
 		while(!stack.isEmpty())
-		{
-			
+		{		
 			int u = stack.pop();
 			if(!visited[u])
 			{
 				SCC++;
-				dfs(u,adjListTranspose,false);
+				dfs(u, false);
 			}
-			//if visited then this vertex belongs to the last discovered SCC
-			
+			//if visited then this vertex belongs to the SCC of the vertex which visited it		
 		}
 		
 		return SCC;
 	}
 	
-	public static void dfs(int u,ArrayList<Integer>[] graph ,boolean fillingStack)
+	public static void dfs(int u, boolean fillingStack)
 	{
-		
 		visited[u] = true;
-		for(int i = 0; i < graph[u].size(); i++)
-		{
-			int v = graph[u].get(i);
+		for(int v: graph[u])
 			if(!visited[v])
-				dfs(v, graph, fillingStack);
-		}
+				dfs(v, fillingStack);
 		if(fillingStack)
 			stack.push(u);
 	}
-	
-	
-	
-	
-	public static void reverse()
-	{
-		adjListTranspose = new ArrayList[N];
-		for(int i = 0; i < N; i++)
-			adjListTranspose[i] = new ArrayList<Integer>();
-		for(int i = 0; i < N; i++)
-			for(int j = 0; j <adjList[i].size(); j++)
-				adjListTranspose[adjList[i].get(j)].add(i);
-		
-	}
-	
-	
-	
 }
