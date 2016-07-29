@@ -14,7 +14,7 @@ public class GamesOnGeneralGraphs {
 	static int[] deg;							//out degree for all nodes in original graph
 	static ArrayList<Integer>[] adjList;		//reverse of original graph
 	static int V;
-	
+
 	static void go()	// O(V + E)
 	{
 		vis = new boolean[V];
@@ -23,23 +23,25 @@ public class GamesOnGeneralGraphs {
 		Queue<Integer> q = new LinkedList<Integer>();
 		/*
 		 * Initially insert in the queue all nodes known to be winning or losing
-		 * and mark them either in win or lose.
+		 * and mark them in vis and either in win or lose.
 		 */
 		while(!q.isEmpty())
 		{
 			int v = q.remove();
 			for(int u: adjList[v])
-			{
-				if(lose[v])
-					win[u] = true;
-				else if(--deg[u] == 0)
-					lose[u] = true;
-				else
-					continue;
-				q.add(u);
-			}
+				if(!vis[u])
+				{
+					if(lose[v])
+						win[u] = true;
+					else if(--deg[u] == 0)
+						lose[u] = true;
+					else
+						continue;
+					vis[u] = true;
+					q.add(u);
+				}
 		}
-		
+
 		// !win[u] & !lose[u] -> draw[u]
 	}
 }
