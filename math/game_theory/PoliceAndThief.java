@@ -58,7 +58,7 @@ public class PoliceAndThief {
 						int ttx = tx + dx[k], tty = py + dy[k];
 						if(valid(ppx, ppy) && valid(ttx, tty))
 						{
-							nxtState = mapState(ppx & C + ppy, ttx * C + tty, turn ^ 1);
+							nxtState = mapState(ppx * C + ppy, ttx * C + tty, turn ^ 1);
 							adjList[nxtState].add(state);
 							++deg[state];
 						}
