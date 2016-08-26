@@ -1,6 +1,6 @@
 package strings;
 
-public class Trie {
+public class SuffixTrie {
 
 	static final int R = 26;				//Alphabet (lowercase etters in below implementation)
 	

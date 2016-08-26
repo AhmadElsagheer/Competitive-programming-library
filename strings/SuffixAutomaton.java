@@ -38,6 +38,7 @@ public class SuffixAutomaton {
 				while(next[p].get(c) == q) { next[p].put(c, clone);	p = link[p]; }
 			}
 		len[cur] = len[lst] + 1;
+		next[cur] = new TreeMap<>();
 		lst = cur;
 	}
 }
