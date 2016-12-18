@@ -1,4 +1,4 @@
-package ds;
+package data_structures.trees;
 
 import java.util.Scanner;
 

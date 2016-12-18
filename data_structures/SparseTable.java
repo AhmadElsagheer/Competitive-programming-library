@@ -1,4 +1,4 @@
-package ds;
+package data_structures;
 
 // static Range Minimum Query, DP Solution
 public class SparseTable {                                          

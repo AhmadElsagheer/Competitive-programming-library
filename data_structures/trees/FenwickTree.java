@@ -1,4 +1,4 @@
-package ds;
+package data_structures.trees;
 
 public class FenwickTree { // one-based DS
 

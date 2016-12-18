@@ -1,4 +1,4 @@
-package math;
+package math.combinatorics;
 
 public class Fibonacci {
 

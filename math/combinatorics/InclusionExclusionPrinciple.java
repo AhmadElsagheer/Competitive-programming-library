@@ -1,4 +1,4 @@
-package math;
+package math.combinatorics;
 
 import java.util.ArrayList;
 import java.util.Arrays;

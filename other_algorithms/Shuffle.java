@@ -1,4 +1,4 @@
-package otherAlgorithms;
+package other_algorithms;
 
 public class Shuffle {
 

@@ -1,4 +1,4 @@
-package ds;
+package data_structures;
 
 //Union-Find Disjoint Sets Library written in OOP manner, using both path compression and union by rank heuristics
 public class UnionFind {                                              
