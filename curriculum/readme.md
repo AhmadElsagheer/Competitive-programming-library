@@ -1,4 +1,4 @@
-# ACM Currciulum
+# ACM Curriculum
 
 This is a training plan for anyone who wants to excel in competitive programming regardless of his knowledge and experience.
 The plan is currently under development and being tested by the GUC ACM community. This plan is meant to be sufficient for
