@@ -70,7 +70,8 @@ Practice Style: topics + implementation problems.
     - CP is [Competitive Programming 3](https://cpbook.net/).
     - CLRS is [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms).
     - For extra resources, check [awesome-list](https://github.com/lnishan/awesome-competitive-programming) or [topics sheet](https://docs.google.com/spreadsheets/d/1tLEm58_2bQgM7qhATSjN0fGbdLLtaOCjUFnTGniHbjI).
-- Solutions and hints
+    
+- Solutions and hints:
     - For CF problems, you can see other accepted submissions.
     - For UVa problems, check [this repo](https://github.com/AhmadElsagheer/UVa-Solutions) or google it.
     
