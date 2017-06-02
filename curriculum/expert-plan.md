@@ -2,10 +2,10 @@
 
 Duration: xx acm days
 
-Practice Style: 
-    - new topics 
-    - medium problems on topics in pupil/specialist plan or topics discussed earlier in the current plan.
-    - hard problems on topics with awesome new ideas and solutions.
+Practice Style:
+- new topics .
+- medium problems on topics in pupil/specialist plan or topics discussed earlier in the current plan.
+- hard problems on topics with awesome new ideas and solutions.
     
 ### Content
 
