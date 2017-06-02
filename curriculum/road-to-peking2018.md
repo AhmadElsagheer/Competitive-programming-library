@@ -61,3 +61,11 @@ So, let's start with warm-up problems (please record time durations for the prob
 - [Matrix Multiplication](http://codeforces.com/gym/100199)
 - [New Year Bonus Grant](http://codeforces.com/gym/100199)
 
+Our practice sheet will be [here](https://docs.google.com/spreadsheets/d/1reWwcoWl25MawrM9HqQNiVOPPe91HH2ZmIdbenBsnTM).
+
+- Send an edit request with your gmail (used in the mailing list).
+- Each row will describe a task either a topic or a problem.
+- You will get a column at which you will put:
+    - link to your solution (if on CF add submission link, otherwise add ideone link) with hyperlink word "code".
+    - time in minutes (between brackets) you spent to finish the task.
+- Follow the [facebook group](https://www.facebook.com/groups/1300348016749799) for discussions and announcements.
