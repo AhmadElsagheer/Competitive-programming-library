@@ -69,4 +69,5 @@ Our practice sheet will be [here](https://docs.google.com/spreadsheets/d/1reWwco
     - link to your solution (if on CF add submission link, otherwise add ideone link) with hyperlink word "code".
     - time in minutes (between brackets) you spent to finish the task.
 - Follow the [facebook group](https://www.facebook.com/groups/1300348016749799) for discussions and announcements.
+- Use comments in the sheet and orange/red cell color or fb group for discussions.
 - If you have further notes, share them!
