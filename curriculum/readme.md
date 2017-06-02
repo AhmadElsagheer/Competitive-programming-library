@@ -19,5 +19,5 @@ CF-div2 ABCDE
 Problems without brackets should be solved regardless of their difficulty. Problems with brackets should be solved if they are
 the easy or medium ones.
 
-Attached with each plan, there will be a google spreadsheet. As you benifit from this plan, it will nice if you can help others
-benifit from this plan. So, you can request access to the spreadsheet and a column will be assigned to you to fill with the time you spent on solving problems and finishing the reading tasks to make good estimates for the plan.
+Attached with each plan, there will be a google spreadsheet. As you benefit from this plan, it will nice if you can help others
+benefit from this plan. So, you can request access to the spreadsheet and a column will be assigned to you to fill with the time you spent on solving problems and finishing the reading tasks to make good estimates for the plan.
