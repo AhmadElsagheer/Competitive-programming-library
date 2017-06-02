@@ -56,19 +56,19 @@ Practice Style: topics + implementation problems.
 | 23 | [Math] Adhoc Problems | CP 5.2 | TODO | TODO |
 | 24 | [Math] Long Arithmetic | CP 5.3 | TODO | TODO |
 | 25 | [Geometry] Points and Lines | CP 7.1, 7.2.1-2 | TODO | TODO |
-| 26 | [Geometry] Points and Lines | 7.2.1-2 | TODO | TODO |
+| 26 | [Geometry] Points and Lines | CP 7.2.1-2 | TODO | TODO |
 | 27 | [Strings] Basic Algos | CP 6.1-3 | TODO | TODO |
 | 28 | [Strings] Basic Algos | CP 6.3 | TODO | TODO |
 
 ### Notes
 - To find the problems:
-    - For CF problems, if problem is 71A, then it's link will be "http://codeforces.com/problemset/problem/71/A"
+    - For CF problems, if problem is 71A, then it's link will be "http://codeforces.com/problemset/problem/71/A".
     - For UVa problems, just google "UVA [problem id]" and you will get links for the problem. Make sure that the same id appears in the problem page written before the problem name.
 - Resources:
-    - CP is [competitive programming 3](https://cpbook.net/)
-    - CLRS is [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms)
+    - CP is [Competitive Programming 3](https://cpbook.net/).
+    - CLRS is [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms).
 - Extra problems
-    - For extra problems about the mentioned topics, check CP or [problems sheet](https://docs.google.com/spreadsheets/d/1blSbPr1pAFZSzlAi2IVdTeytz2yO7Ejx9SeQWOSxY0w/edit#gid=1542041463)
+    - For extra problems about the mentioned topics, check CP or [problems sheet](https://docs.google.com/spreadsheets/d/1blSbPr1pAFZSzlAi2IVdTeytz2yO7Ejx9SeQWOSxY0w/edit#gid=1542041463).
     
 - Solutions and hints
     - For CF problems, you can see other accepted submissions.
