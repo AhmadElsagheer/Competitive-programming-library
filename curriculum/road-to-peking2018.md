@@ -26,6 +26,8 @@ The plan is split into four stages:
 
 - **Stage 4** [February - April]: Getting ready for World Finals!
 
+Teams who couldn't make their way to the world finals will be included in the plan, either for the next season or for improving their algorithmic skills. 
+
 ---
 ### Stage 1 Plan
 Right now, we are in stage 1 so let's talk about it more concretely.
