@@ -1,6 +1,6 @@
 # Specialist Plan
 
-Duration: 32 acm days
+Duration: 34 acm days
 
 Pracitce Style: topics + medium problems on basic topics in pupil plan or previously discussed topics in the current plan.
 
@@ -75,12 +75,12 @@ Pracitce Style: topics + medium problems on basic topics in pupil plan or previo
 | 26 | [Graphs] Trees: DP on trees | N/A |  TODO | TODO |
 | 27 | [Geometry] Line Sweep | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/line-sweep-algorithms/) |  TODO | TODO |
 | 28 | [Strings] Suffix Trie | CP 6.6.1-3 |  TODO | TODO |
-| 28 | [Math] Combinatorics| check topics sheet |  TODO | TODO |
-| 29 | [Graphs] Bipartite Graphs | CP 4.7.4 |  TODO | TODO |
+| 29 | [Math] Combinatorics| check topics sheet |  TODO | TODO |
 | 30 | [Graphs] Bipartite Graphs | CP 4.7.4 |  TODO | TODO |
-| 28 | [Math] Combinatorics: Inc-Exc Principle | check topics sheet |  TODO | TODO |
-| 31 | [Graphs] Max Flow | CP 4.6 |  TODO | TODO |
-| 32 | [Graphs] Max Flow | CP 4.6 |  TODO | TODO |
+| 31 | [Graphs] Bipartite Graphs | CP 4.7.4 |  TODO | TODO |
+| 32 | [Math] Combinatorics: Inc-Exc Principle | check topics sheet |  TODO | TODO |
+| 33 | [Graphs] Max Flow | CP 4.6 |  TODO | TODO |
+| 34 | [Graphs] Max Flow | CP 4.6 |  TODO | TODO |
 
 ### Notes
 - To find the problems:
