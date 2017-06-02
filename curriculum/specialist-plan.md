@@ -61,13 +61,13 @@ Pracitce Style: topics + medium problems on basic topics in pupil plan or previo
 | 18 | [Geometry] Polygons | CP 7.3 |  TODO | TODO |
 | 19 | [Geometry] Polygons | CP 7.3 |  TODO | TODO |
 | 20 | [Geometry] Polygons | CP 7.3 |  TODO | TODO |
-| 21 | [Strings] String Matching: Prefix Function | [Maximal](http://e-maxx.ru/algo/prefix_function)	CP 6.4.2 |  TODO | TODO |
+| 21 | [Strings] String Matching: Prefix Function | [Maximal](http://e-maxx.ru/algo/prefix_function), CP 6.4.2 |  TODO | TODO |
 | 22 | [Graphs] String Matching: Z-Algorithm | [Maximal](http://e-maxx.ru/algo/z_function), [Slides](https://drive.google.com/file/d/0B5oUbKPT4g_ETDBERy11NDBxemc/view?usp=sharing) |  TODO | TODO |
 | 23 | [Graphs] Trees: Basic Algos | CP 4.7.2 |  TODO | TODO |
 | 24 | [Graphs] Trees: Euler walk & LCA | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/) |  TODO | TODO |
 | 25 | [Graphs] DSU on trees | CF blog |  TODO | TODO |
 | 26 | [Graphs] Trees: DP on trees | N/A |  TODO | TODO |
-| 27 | [Geometry] Line Sweep | [TC tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/line-sweep-algorithms/) |  TODO | TODO |
+| 27 | [Geometry] Line Sweep | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/line-sweep-algorithms/) |  TODO | TODO |
 | 28 | [Strings] Suffix Trie | CP 6.6.1-3 |  TODO | TODO |
 | 29 | [Graphs] Bipartite Graphs | CP 4.7.4 |  TODO | TODO |
 | 30 | [Graphs] Bipartite Graphs | CP 4.7.4 |  TODO | TODO |
