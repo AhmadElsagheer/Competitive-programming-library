@@ -1,6 +1,6 @@
 # Specialist Plan
 
-Duration: 34 acm days
+Duration: 37 acm days
 
 Pracitce Style: topics + medium problems on basic topics in pupil plan or previously discussed topics in the current plan.
 
@@ -36,6 +36,10 @@ Pracitce Style: topics + medium problems on basic topics in pupil plan or previo
         - Inclusion-Exclusion Principle
     
 - Geometry
+    - 2D shapes
+        - Circles
+        - Triangles
+        - Quadrilaterals
     - Polygons
     - Line Sweep
 
@@ -81,6 +85,9 @@ Pracitce Style: topics + medium problems on basic topics in pupil plan or previo
 | 32 | [Math] Combinatorics: Inc-Exc Principle | check topics sheet |  TODO | TODO |
 | 33 | [Graphs] Max Flow | CP 4.6 |  TODO | TODO |
 | 34 | [Graphs] Max Flow | CP 4.6 |  TODO | TODO |
+| 35 | [Geometry] Circles | CP 7.2.3 |  TODO | TODO |
+| 36 | [Geometry] Triangles | CP 7.2.4 |  TODO | TODO |
+| 37 | [Geometry] Quadrilaterals | CP 7.2.5 |  TODO | TODO |
 
 ### Notes
 - To find the problems:
