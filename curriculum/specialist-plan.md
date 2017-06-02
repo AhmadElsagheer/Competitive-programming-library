@@ -28,6 +28,12 @@ Pracitce Style: topics + medium problems on basic topics in pupil plan or previo
 
 - Mathematics
     - Number Theory
+    - Combinatorics
+        - Pigeonhole Principle
+        - Fibonacci Numbers
+        - Binomial Coefficient
+        - Catalan Numbers
+        - Inclusion-Exclusion Principle
     
 - Geometry
     - Polygons
@@ -69,8 +75,10 @@ Pracitce Style: topics + medium problems on basic topics in pupil plan or previo
 | 26 | [Graphs] Trees: DP on trees | N/A |  TODO | TODO |
 | 27 | [Geometry] Line Sweep | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/line-sweep-algorithms/) |  TODO | TODO |
 | 28 | [Strings] Suffix Trie | CP 6.6.1-3 |  TODO | TODO |
+| 28 | [Math] Combinatorics| check topics sheet |  TODO | TODO |
 | 29 | [Graphs] Bipartite Graphs | CP 4.7.4 |  TODO | TODO |
 | 30 | [Graphs] Bipartite Graphs | CP 4.7.4 |  TODO | TODO |
+| 28 | [Math] Combinatorics: Inc-Exc Principle | check topics sheet |  TODO | TODO |
 | 31 | [Graphs] Max Flow | CP 4.6 |  TODO | TODO |
 | 32 | [Graphs] Max Flow | CP 4.6 |  TODO | TODO |
 
