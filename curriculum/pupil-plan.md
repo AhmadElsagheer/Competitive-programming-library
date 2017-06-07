@@ -2,7 +2,7 @@
 
 Duration: 28 acm days.
 
-Practice Style: topics + implementation problems.
+Practice Style: new topics (2 easy + 3 medium problems) + extra implementation problems (5 easy/medium).
 
 ### Content
 
@@ -38,7 +38,7 @@ Practice Style: topics + implementation problems.
 | 5 | [DS] Non-linear DS | CP 2.3 | TODO | TODO |
 | 6 | [DS] Sortings: Merge Sort and Inversion Index | CLRS 2.3, CP 9.14 | TODO | TODO |
 | 7 | [DS] Sortings: Counting and Radix Sort | [Wiki](https://en.wikipedia.org/wiki/Counting_sort), CP 9.32 | TODO | TODO |
-| 8 | [SP] Brute Force | CP 3.1, CP 3.2.1| TODO | TODO |
+| 8 | [SP] Brute Force | CP 3.1, CP 3.2.1| CF [25A, CF 520A] UVa [102, 1260, 1237] | TODO |
 | 9 | [SP] Brute Force | CP 3.2.2 | TODO | TODO |
 | 10 | [SP] Brute Force | CP 3.2.2, 3.2.3 | TODO | TODO |
 | 11 | [SP] Greedy | CP 3.4 | TODO | TODO |
