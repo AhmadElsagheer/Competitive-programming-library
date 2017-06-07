@@ -41,11 +41,11 @@ Practice Style: new topics (2 easy + 3 medium problems) + extra implementation p
 | 8 | [SP] Brute Force | CP 3.1, CP 3.2.1| CF [25A, CF 520A] UVa [102, 1260, 1237] | TODO |
 | 9 | [SP] Brute Force | CP 3.2.2 | TODO | TODO |
 | 10 | [SP] Brute Force | CP 3.2.2, 3.2.3 | TODO | TODO |
-| 11 | [SP] Greedy | CP 3.4 | TODO | TODO |
-| 12 | [SP] Greedy | CP 3.4 | TODO | TODO |
-| 13 | [SP] Binary Search | CP 3.3 | TODO | TODO |
-| 14 | [SP] Binary Search | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/) | TODO | TODO |
-| 15 | [Graphs] Representation | CP 2.4.1 | TODO | TODO |
+| 11 | [SP] Greedy | CP 3.4 | UVa[10340, 11900, 12405] CF [230A, 413C] | TODO |
+| 12 | [SP] Greedy | CP 3.4 | UVa [10714, 12482, 11520, 11157, 10026] | TODO |
+| 13 | [SP] Binary Search | CP 3.3 | UVa [10474, 10611], CF [279B, 165B, 812C] | TODO |
+| 14 | [SP] Binary Search | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/) | CF 68B, UVa [11428, 11413, 11057, 11935] | TODO |
+| 15 | [Graphs] Representation | CP 2.4.1 | UVa 539 | TODO |
 | 16 | [Graphs] Traversal | CP 4.2.1-2 | TODO | TODO |
 | 17 | [Graphs] Basic Algos | CP 4.2.3-5, [Wiki](https://en.wikipedia.org/wiki/Topological_sorting) | TODO | TODO |
 | 18 | [Graphs] Basic Algos | CP 4.2.6-7 | TODO | TODO |
@@ -64,7 +64,7 @@ Practice Style: new topics (2 easy + 3 medium problems) + extra implementation p
 - To find the problems:
     - For CF problems, if problem is 71A, then it's link will be "http://codeforces.com/problemset/problem/71/A".
     - For UVa problems, just google "UVA [problem id]" and you will get links for the problem. Make sure that the same id appears in the problem page written before the problem name.
-    - - For extra problems about the mentioned topics, check CP or [problems sheet](https://docs.google.com/spreadsheets/d/1blSbPr1pAFZSzlAi2IVdTeytz2yO7Ejx9SeQWOSxY0w).
+    - For extra problems about the mentioned topics, check CP or [problems sheet](https://docs.google.com/spreadsheets/d/1blSbPr1pAFZSzlAi2IVdTeytz2yO7Ejx9SeQWOSxY0w).
     
 - Resources:
     - CP is [Competitive Programming 3](https://cpbook.net/).
