@@ -2,7 +2,7 @@
 
 Duration: 37 acm days
 
-Pracitce Style: topics + medium problems on basic topics in [pupil plan ADD LINK]() or previously discussed topics in the current plan.
+Pracitce Style: topics + medium problems on basic topics in [pupil plan](https://github.com/AhmadElsagheer/Competitive-programming-library/blob/master/curriculum/pupil-plan.md) or previously discussed topics in the current plan.
 
 ### Content
 
