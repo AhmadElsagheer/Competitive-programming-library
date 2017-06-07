@@ -32,16 +32,16 @@ Practice Style: new topics (2 easy + 3 medium problems) + extra implementation p
 | Day           | Topic         | Resources  | Problems on Topic | Extra Problems |
 | :-----------: |:-------------:| :---------:|:-----------------:|:--------------:|
 | 1 | Gettig Started | CP 1.1-4 |  UVa [11172, 11799, 11586, 10443, 156] | CF [1A, 4A, 71, 158A, 118A] |
-| 2 | [DS] Linear DS | CP 2.1, 2.2| TODO | TODO |
-| 3 | [DS] Linear DS | CP 2.1, 2.2 | TODO | TODO |
+| 2 | [DS] Linear DS | CP 2.1, 2.2| UVa [11496, 10855, 11933, 514, 10935] | CF [263A, 236A, 546A, 467A, 110A] |
+| 3 | [DS] Linear DS | CP 2.1, 2.2 | UVa [11581, 10264, 11988, 540, 10172] | CF [61A, 379A, 344A, 119A, 510A] |
 | 4 | [DS] Non-linear DS | CP 2.3 | TODO | TODO |
 | 5 | [DS] Non-linear DS | CP 2.3 | TODO | TODO |
 | 6 | [DS] Sortings: Merge Sort and Inversion Index | CLRS 2.3, CP 9.14 | TODO | TODO |
 | 7 | [DS] Sortings: Counting and Radix Sort | [Wiki](https://en.wikipedia.org/wiki/Counting_sort), CP 9.32 | TODO | TODO |
-| 8 | [SP] Brute Force | CP 3.1, CP 3.2.1| CF [25A, CF 520A] UVa [102, 1260, 1237] | TODO |
+| 8 | [SP] Brute Force | CP 3.1, CP 3.2.1| CF [25A, CF 520A], UVa [102, 1260, 1237] | TODO |
 | 9 | [SP] Brute Force | CP 3.2.2 | TODO | TODO |
 | 10 | [SP] Brute Force | CP 3.2.2, 3.2.3 | TODO | TODO |
-| 11 | [SP] Greedy | CP 3.4 | UVa[10340, 11900, 12405] CF [230A, 413C] | TODO |
+| 11 | [SP] Greedy | CP 3.4 | UVa[10340, 11900, 12405], CF [230A, 413C] | TODO |
 | 12 | [SP] Greedy | CP 3.4 | UVa [10714, 12482, 11520, 11157, 10026] | TODO |
 | 13 | [SP] Binary Search | CP 3.3 | UVa [10474, 10611], CF [279B, 165B, 812C] | TODO |
 | 14 | [SP] Binary Search | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/) | CF 68B, UVa [11428, 11413, 11057, 11935] | TODO |
