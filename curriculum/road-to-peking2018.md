@@ -4,11 +4,7 @@
 ### Overview
 
 Now, we are about to start an intensive one-year plan to get ready for Peking World Finals 2018. I am quite sure that if we managed
-to follow this plan over all months, we will have red coders soon and this is a step close to performing well in the World Finals.
-Let's define our own units, so the plan seems reasonable and fits our schedules. An acm day is a day at which you do nothing but pracitce, 
-typically spending 16 hours in practice and sleeping/eating/doing other stuff in 8 hours. For sure, this is not reasonable for our daily lives, 
-but we need to define such a day as it is suitable for feeling progressive. We will use this definition of day in the plan, however, it depends
-how it will be interpreted ([extreme] 1-4 [amateur] normal days). It depends on the person and the period. We will always try to make a good
+to follow this plan over all months, we will have red coders soon and this is a step close to performing well in the World Finals. It depends on the person and the period. We will always try to make a good
 estimate for it.
 
 The plan is split into four stages:
