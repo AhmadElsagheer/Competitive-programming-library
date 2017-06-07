@@ -104,3 +104,6 @@ Pracitce Style: topics + medium problems on basic topics in [pupil plan](https:/
     - For CF problems, you can see other accepted submissions.
     - For UVa problems, check [this repo](https://github.com/AhmadElsagheer/UVa-Solutions) or google it.
     
+- Contribution
+    - If you are following this plan and want to contribute to it, send an access request to [this google sheet](https://docs.google.com/spreadsheets/d/1wl-Sooml35n2xpXnsQ71yR0uBWpz3OEv1GybpGlH71Q/edit?usp=sharing). You will get a column with your name at which you can add links to your solutions, information about time taken to finish the tasks and your own comments on the problems.
+    
