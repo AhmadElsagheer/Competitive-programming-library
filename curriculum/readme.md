@@ -7,13 +7,13 @@ to contribute to the plan to improve it, you can send me an email.
 
 We will divide ACMers into three different levels (inspired by Codeforces):
 
-- **Pupil**: beginner with no prior knowledge or experience in competitive programming. The target of this plan to be able to solve
+- **[Pupil](https://github.com/AhmadElsagheer/Competitive-programming-library/blob/master/curriculum/pupil-plan.md)**: beginner with no prior knowledge or experience in competitive programming. The target of this plan to be able to solve
 CF-div2 AB(C)
 
-- **Specialist**: has basic knowledge in most of the topics and good implementation skills. The target of this plan to be able to solve
+- **[Specialist](https://github.com/AhmadElsagheer/Competitive-programming-library/blob/master/curriculum/specialist-plan.md)**: has basic knowledge in most of the topics and good implementation skills. The target of this plan to be able to solve
 CF-div2 ABC(D)
 
-- **Expert**: masters basic algorithms/data structures and has good knowledge in most of the topics. The target of this plan to be able to solve
+- **[Expert](https://github.com/AhmadElsagheer/Competitive-programming-library/blob/master/curriculum/expert-plan.md)**: masters basic algorithms/data structures and has good knowledge in most of the topics. The target of this plan to be able to solve
 CF-div2 ABCDE
 
 Problems without brackets should be solved regardless of their difficulty. Problems with brackets should be solved if they are
