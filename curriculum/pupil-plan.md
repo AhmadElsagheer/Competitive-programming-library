@@ -34,8 +34,8 @@ Practice Style: new topics (2 easy + 3 medium problems) + extra implementation p
 | 1 | Gettig Started | CP 1.1-4 |  UVa [11172, 11799, 11586, 10443, 156] | CF [1A, 4A, 71, 158A, 118A] |
 | 2 | [DS] Linear DS | CP 2.1, 2.2| UVa [11496, 10855, 11933, 514, 10935] | CF [263A, 236A, 546A, 467A, 110A] |
 | 3 | [DS] Linear DS | CP 2.1, 2.2 | UVa [11581, 10264, 11988, 540, 10172] | CF [61A, 379A, 344A, 119A, 510A] |
-| 4 | [DS] Non-linear DS | CP 2.3 | TODO | TODO |
-| 5 | [DS] Non-linear DS | CP 2.3 | TODO | TODO |
+| 4 | [DS] Non-linear DS | CP 2.3 | UVa [11849, 417, 10954, 10815, 11995] | CF [228A, 520A, 405A, 141A, 59A] |
+| 5 | [DS] Non-linear DS | CP 2.3 | UVa [11062, 11286, 1203, 12504, 11348] | CF [339B, 466A, 492A, 313A, 581A] |
 | 6 | [DS] Sortings: Merge Sort and Inversion Index | CLRS 2.3, CP 9.14 | TODO | TODO |
 | 7 | [DS] Sortings: Counting and Radix Sort | [Wiki](https://en.wikipedia.org/wiki/Counting_sort), CP 9.32 | TODO | TODO |
 | 8 | [SP] Brute Force | CP 3.1, CP 3.2.1| CF [25A, CF 520A], UVa [102, 1260, 1237] | TODO |
