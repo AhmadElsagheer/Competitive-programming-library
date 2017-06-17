@@ -36,16 +36,16 @@ Practice Style: new topics (2 easy + 3 medium problems) + extra implementation p
 | 3 | [DS] Linear DS | CP 2.1, 2.2 | UVa [11581, 10264, 11988, 540, 10172] | CF [61A, 379A, 344A, 119A, 510A] |
 | 4 | [DS] Non-linear DS | CP 2.3 | UVa [11849, 417, 10954, 10815, 11995] | CF [228A, 520A, 405A, 141A, 59A] |
 | 5 | [DS] Non-linear DS | CP 2.3 | UVa [11062, 11286, 1203, 12504, 11348] | CF [339B, 466A, 492A, 313A, 581A] |
-| 6 | [DS] Sortings: Merge Sort and Inversion Index | CLRS 2.3, CP 9.14 | TODO | TODO |
-| 7 | [DS] Sortings: Counting and Radix Sort | [Wiki](https://en.wikipedia.org/wiki/Counting_sort), CP 9.32 | TODO | TODO |
-| 8 | [SP] Brute Force | CP 3.1, CP 3.2.1| CF [25A, CF 520A], UVa [102, 1260, 1237] | TODO |
-| 9 | [SP] Brute Force | CP 3.2.2 | TODO | TODO |
-| 10 | [SP] Brute Force | CP 3.2.2, 3.2.3 | TODO | TODO |
-| 11 | [SP] Greedy | CP 3.4 | UVa[10340, 11900, 12405], CF [230A, 413C] | TODO |
-| 12 | [SP] Greedy | CP 3.4 | UVa [10714, 12482, 11520, 11157, 10026] | TODO |
-| 13 | [SP] Binary Search | CP 3.3 | UVa [10474, 10611], CF [279B, 165B, 812C] | TODO |
-| 14 | [SP] Binary Search | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/) | CF 68B, UVa [11428, 11413, 11057, 11935] | TODO |
-| 15 | [Graphs] Representation | CP 2.4.1 | UVa 539 | TODO |
+| 6 | [DS] Sortings: Merge Sort and Inversion Index | CLRS 2.3, CP 9.14 | UVa [229, 10327], [HR 1](https://www.hackerrank.com/contests/101hack35/challenges/larrys-array) | CF [677A, 705A, 200B, 540A, 268B] |
+| 7 | [DS] Sortings: Counting and Radix Sort | [Wiki](https://en.wikipedia.org/wiki/Counting_sort), CP 9.32 | UVa 11462, CF [686B, 652B] | CF [432A, 711A, 509A, 327A, 703A] |
+| 8 | [SP] Brute Force | CP 3.1, CP 3.2.1| CF [25A, CF 520A], UVa [102, 1260, 1237] | CF [427A, 519B, 707A, 577A, 490A] |
+| 9 | [SP] Brute Force | CP 3.2.2 | UVa [524, 167, 624, 10360, 12346] | CF [476A, 448A, 474A, 599A, 149A] |
+| 10 | [SP] Brute Force | CP 3.2.2, 3.2.3 | UVa [1251, 11201, 1064, 12515, 750] | CF [519A, 270A, 489C, 467B, 716A] |
+| 11 | [SP] Greedy | CP 3.4 | UVa[10340, 11900, 12405], CF [230A, 413C] | CF [230B, 567A, 439A, 459A, 474B] |
+| 12 | [SP] Greedy | CP 3.4 | UVa [10714, 12482, 11520, 11157, 10026] | CF [459B, 514A, 734B, 721A, 237A] |
+| 13 | [SP] Binary Search | CP 3.3 | UVa [10474, 10611], CF [279B, 165B, 812C] | CF [570A, 791A, 785A, 621A, 471A] |
+| 14 | [SP] Binary Search | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/) | CF 68B, UVa [11428, 11413, 11057, 11935] | CF [551A, 349A, 313B, 560A, 550A] |
+| 15 | [Graphs] Representation | CP 2.4.1 | UVa 539 | CF [527A] |
 | 16 | [Graphs] Traversal | CP 4.2.1-2 | TODO | TODO |
 | 17 | [Graphs] Basic Algos | CP 4.2.3-5, [Wiki](https://en.wikipedia.org/wiki/Topological_sorting) | TODO | TODO |
 | 18 | [Graphs] Basic Algos | CP 4.2.6-7 | TODO | TODO |
