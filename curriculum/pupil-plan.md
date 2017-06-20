@@ -45,8 +45,8 @@ Practice Style: new topics (2 easy + 3 medium problems) + extra implementation p
 | 12 | [SP] Greedy | CP 3.4 | UVa [10714, 12482, 11520, 11157, 10026] | CF [459B, 514A, 734B, 721A, 237A] |
 | 13 | [SP] Binary Search | CP 3.3 | UVa [10474, 10611], CF [279B, 165B, 812C] | CF [570A, 791A, 785A, 621A, 471A] |
 | 14 | [SP] Binary Search | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/) | CF 68B, UVa [11428, 11413, 11057, 11935] | CF [551A, 349A, 313B, 560A, 550A] |
-| 15 | [Graphs] Representation | CP 2.4.1 | UVa 539 | CF [527A] |
-| 16 | [Graphs] Traversal | CP 4.2.1-2 | TODO | TODO |
+| 15 | [Graphs] Representation | CP 2.4.1 | UVa [11991, 10928, 599, 11550], CF 246D | CF [527A] |
+| 16 | [Graphs] Traversal | CP 4.2.1-2 | UVa 539 | TODO |
 | 17 | [Graphs] Basic Algos | CP 4.2.3-5, [Wiki](https://en.wikipedia.org/wiki/Topological_sorting) | TODO | TODO |
 | 18 | [Graphs] Basic Algos | CP 4.2.6-7 | TODO | TODO |
 | 19 | [Graphs] Basic Algos | CP 4.2.8-9 | TODO | TODO |
