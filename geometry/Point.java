@@ -87,7 +87,7 @@ public class Point implements Comparable<Point>{
 	
 	static double distToLine(Point p, Point a, Point b) //distance between point p and a line defined by points a, b (a != b)
 	{
-		if(a.compareTo(b) == 0) p.dist(a);
+		if(a.compareTo(b) == 0) return p.dist(a);
 		// formula: c = a + u * ab
 		Vector ap = new Vector(a, p), ab = new Vector(a, b);
 		double u = ap.dot(ab) / ab.norm2();
