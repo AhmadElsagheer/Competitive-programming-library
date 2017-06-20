@@ -31,7 +31,7 @@ Practice Style: new topics (2 easy + 3 medium problems) + extra implementation p
 
 | Day           | Topic         | Resources  | Problems on Topic | Extra Problems |
 | :-----------: |:-------------:| :---------:|:-----------------:|:--------------:|
-| 1 | Gettig Started | CP 1.1-4 |  UVa [11172, 11799, 11586, 10443, 156] | CF [1A, 4A, 71, 158A, 118A] |
+| 1 | Getting Started | CP 1.1-4 |  UVa [11172, 11799, 11586, 10443, 156] | CF [1A, 4A, 71, 158A, 118A] |
 | 2 | [DS] Linear DS | CP 2.1, 2.2| UVa [11496, 10855, 11933, 514, 10935] | CF [263A, 236A, 546A, 467A, 110A] |
 | 3 | [DS] Linear DS | CP 2.1, 2.2 | UVa [11581, 10264, 11988, 540, 10172] | CF [61A, 379A, 344A, 119A, 510A] |
 | 4 | [DS] Non-linear DS | CP 2.3 | UVa [11849, 417, 10954, 10815, 11995] | CF [228A, 520A, 405A, 141A, 59A] |
@@ -62,7 +62,7 @@ Practice Style: new topics (2 easy + 3 medium problems) + extra implementation p
 
 ### Notes
 - To find the problems:
-    - For CF problems, if problem is 71A, then it's link will be "http://codeforces.com/problemset/problem/71/A".
+    - For CF problems, if problem is 71A, then its link will be "http://codeforces.com/problemset/problem/71/A".
     - For UVa problems, just google "UVA [problem id]" and you will get links for the problem. Make sure that the same id appears in the problem page written before the problem name.
     - For extra problems about the mentioned topics, check CP or [problems sheet](https://docs.google.com/spreadsheets/d/1blSbPr1pAFZSzlAi2IVdTeytz2yO7Ejx9SeQWOSxY0w).
     
