@@ -23,7 +23,7 @@ Code library for competitive programming purposes.
 - [UVa-Solutions](https://github.com/AhmadElsagheer/UVa-Solutions): Java solutions for most of the problems I solved on UVa online Judge. Codeforces submissions are not uploaded because they can be accessed by anyone. If you need solutions for problems in the Problems Sheet and on another online judge, tell me about them.
 
 ### Contributing
-This project is still under development and is meant to provide a full guide for competitve programmers from beginners and going up to the maximum level possible:
+This project is still under development and is meant to provide a full guide for competitive programmers from beginners and going up to the maximum level possible:
 
 - More codes for a bunch of different algorithms will be added. You can contribute to codes by:
     - Fixing bugs and comments typos, adding or enhancing comments, improving naming conventions or code structure to make it cleaner, shorter or simpler. You can do this through issues or directly with a pull request.
@@ -35,7 +35,7 @@ You can contribute to the curriculum by:
   - Editing plan description, style, content, topic resources, problems or any other thing related.
   - Following the plan as described and adding your own experience as a test participant. You can do this through google spreadsheets described in each plan.
   
-- In the future, practice guidlines and any  can be added. You can contribute to this in any way you want (issues, pull requests or [contact me](http://codeforces.com/profile/Ahmad_Elsagheer) to discuss it).
+- In the future, practice guidelines and any can be added. You can contribute to this in any way you want (issues, pull requests or [contact me](http://codeforces.com/profile/Ahmad_Elsagheer) to discuss it).
 
 
 ### License
