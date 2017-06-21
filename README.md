@@ -35,7 +35,7 @@ You can contribute to the curriculum by:
   - Editing plan description, style, content, topic resources, problems or any other thing related.
   - Following the plan as described and adding your own experience as a test participant. You can do this through google spreadsheets described in each plan.
   
-- In the future, practice guidlines and any  can be added. You can contribute to this in any way you want (issues, pull requests or [contact me](codeforces.com/profile/Ahmad_Elsagheer) to discuss it).
+- In the future, practice guidlines and any  can be added. You can contribute to this in any way you want (issues, pull requests or [contact me](http://codeforces.com/profile/Ahmad_Elsagheer) to discuss it).
 
 
 ### License
