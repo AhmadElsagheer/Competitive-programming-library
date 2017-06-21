@@ -42,7 +42,6 @@ class LIS {
 		{
 			int pos = Collections.binarySearch(L, A[i]);
 			if (pos < 0) pos = -(pos + 1);
-			//			 else	pos++;		non-decreasing
 
 			if(pos >= L.size()) L.add(A[i]);
 			else                 L.set(pos, A[i]);
