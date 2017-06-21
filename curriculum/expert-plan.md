@@ -32,7 +32,7 @@ Practice Style:
     - Probability Theory
     - Game Theory
         - Decision trees and Min-max Strategy
-        - Sprage-Grundy Theorem
+        - Sprague-Grundy Theorem
         - Games on General Graphs
     - Cycle Finding
     - Numerical Methods
