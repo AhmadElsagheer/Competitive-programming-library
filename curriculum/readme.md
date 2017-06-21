@@ -1,6 +1,6 @@
 # ACM Curriculum
 
-This is a training plan for anyone who wants to excel in competitive programming regardless of his knowledge and experience.
+This is a training plan for anyone who wants to excel in competitive programming regardless of their knowledge and experience.
 The plan is currently under development and being tested by the GUC ACM community. This plan is meant to be sufficient for
 anyone. Some communities may offer sessions to explain topics. However, links will be provided for online material. If you want
 to contribute to the plan to improve it, you can send me an email.
@@ -24,5 +24,5 @@ typically spending 16 hours in practice and sleeping/eating/doing other stuff in
 but we need to define such a day as it is suitable for feeling progressive. We will use this definition of day in the plan, however, it depends
 how it will be interpreted ([extreme] 1-4 [amateur] normal days). 
 
-Attached with each plan, there will be a google spreadsheet. As you benefit from this plan, it will nice if you can help others
+Attached with each plan, there will be a google spreadsheet. As you benefit from this plan, it would be nice if you can help others
 benefit from this plan. So, you can request access to the spreadsheet and a column will be assigned to you to fill with the time you spent on solving problems and finishing the reading tasks to make good estimates for the plan.
