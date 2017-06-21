@@ -106,16 +106,3 @@ public class Point implements Comparable<Point>{
 	}
 	// Another way: find closest point and calculate the distance between it and p
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
