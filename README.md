@@ -3,7 +3,15 @@ Code library for competitive programming purposes.
 
 ### Contents
 - Curriculum: Practice plans for different levels.
-- Data Structures
+- [Data Structures](data_structures)
+  - [Bitmasks](data_structures/linear/Bitmask.java)
+  - [Sortings](data_structures/sortings)
+    -[Merge Sort](data_structures/sortings/MergeSort.java)
+  - [Trees](data_structures/trees)
+    - [Fenwick Tree](data_structures/trees/FenwickTree.java)
+    - [Segment Tree](data_structures/trees/SegmentTree.java) 
+  - [Sparse Table](data_structures/SparseTable.java)
+  - [Disjoint-Sets Union](data_structures/UnionFind.java)
 - Graphs
 - Math
 - Geometry
