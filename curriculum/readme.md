@@ -19,7 +19,7 @@ CF-div2 ABCDE
 Problems without brackets should be solved regardless of their difficulty. Problems with brackets should be solved if they are
 the easy or medium ones.
 
-Let's define our own units, so the plan seems reasonable and fits our schedules. An acm day is a day at which you do nothing but pracitce, 
+Let's define our own units, so the plan seems reasonable and fits our schedules. An acm day is a day at which you do nothing but practice, 
 typically spending 16 hours in practice and sleeping/eating/doing other stuff in 8 hours. For sure, this is not reasonable for our daily lives, 
 but we need to define such a day as it is suitable for feeling progressive. We will use this definition of day in the plan, however, it depends
 how it will be interpreted ([extreme] 1-4 [amateur] normal days). 
