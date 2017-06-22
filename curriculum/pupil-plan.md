@@ -45,11 +45,11 @@ Practice Style: new topics (2 easy + 3 medium problems) + extra implementation p
 | 12 | [SP] Greedy | CP 3.4 | UVa [10714, 12482, 11520, 11157, 10026] | CF [459B, 514A, 734B, 721A, 237A] |
 | 13 | [SP] Binary Search | CP 3.3 | UVa [10474, 10611], CF [279B, 165B, 812C] | CF [570A, 791A, 785A, 621A, 471A] |
 | 14 | [SP] Binary Search | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/) | CF 68B, UVa [11428, 11413, 11057, 11935] | CF [551A, 349A, 313B, 560A, 550A] |
-| 15 | [Graphs] Representation | CP 2.4.1 | UVa [11991, 10928, 599, 11550], CF 246D | CF [527A] |
-| 16 | [Graphs] Traversal | CP 4.2.1-2 | UVa [280, 12442], CF[277A, 115A, 61D] | TODO |
-| 17 | [Graphs] Basic Algos | CP 4.2.3-4, [Wiki](https://en.wikipedia.org/wiki/Topological_sorting) | UVa [459, 11906, 11953, 626], CF 60B | TODO |
-| 18 | [Graphs] Basic Algos | CP 4.2.5-7 | UVa [10305, 11060, 11396, 10505], CF 103B | TODO |
-| 19 | [Graphs] Basic Algos | CP 4.2.8-9 | UVa [315, 610, 10199, 11709, 11504] | TODO |
+| 15 | [Graphs] Representation | CP 2.4.1 | UVa [11991, 10928, 599, 11550], CF 246D | CF [527A, 118B, 583A, 706B, 151A] |
+| 16 | [Graphs] Traversal | CP 4.2.1-2 | UVa [280, 12442], CF[277A, 115A, 61D] | CF [659A, 507A, 1B, 330A] |
+| 17 | [Graphs] Basic Algos | CP 4.2.3-4, [Wiki](https://en.wikipedia.org/wiki/Topological_sorting) | UVa [459, 11906, 11953, 626], CF 60B | CF [706A, 686A, 441A, 611A, 431A] |
+| 18 | [Graphs] Basic Algos | CP 4.2.5-7 | UVa [10305, 11060, 11396, 10505], CF 103B | CF [451A, 688A, 519C, 454A, 681A] |
+| 19 | [Graphs] Basic Algos | CP 4.2.8-9 | UVa [315, 610, 10199, 11709, 11504] | CF [688A, 519C, 454A, 681A, 552B] |
 | 20 | [Graphs] Minimum Spanning Tree | CP 4.3 | UVa [11631,,,, ] | TODO |
 | 21 | [Graphs] Single-Source Shortest Path | CP 4.4.1-3 | UVa [1112,,,, 10356] | TODO |
 | 22 | [Math] Adhoc Problems | CP 5.1, 5.2 | TODO | TODO |
