@@ -10,8 +10,15 @@ Code library for competitive programming purposes.
   - [Trees](data_structures/trees)
     - [Fenwick Tree](data_structures/trees/FenwickTree.java)
     - [Segment Tree](data_structures/trees/SegmentTree.java) 
+    - [Quad Tree](trees/QuadTree.java)
   - [Sparse Table](data_structures/SparseTable.java)
   - [Disjoint-Sets Union](data_structures/UnionFind.java)
+  - [SQRT_Decomposition.java](data_structures/SQRT_Decomposition.java)	
+  - [Mo's Algorithm](data_structures/MoAlgorithm.java)
+  - [Skiplist](data_structures/SkipList.java)
+  - [Indexable Skiplist](data_structures/IndexableSkipList.java)
+  - [Heavy-Light Decomposition](data_structures/HLD.java)
+  - [Treaps](data_structures/TreapSet.java)
 - Graphs
 - Math
 - Geometry
