@@ -46,12 +46,12 @@ Practice Style: new topics (2 easy + 3 medium problems) + extra implementation p
 | 13 | [SP] Binary Search | CP 3.3 | UVa [10474, 10611], CF [279B, 165B, 812C] | CF [570A, 791A, 785A, 621A, 471A] |
 | 14 | [SP] Binary Search | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/) | CF 68B, UVa [11428, 11413, 11057, 11935] | CF [551A, 349A, 313B, 560A, 550A] |
 | 15 | [Graphs] Representation | CP 2.4.1 | UVa [11991, 10928, 599, 11550], CF 246D | CF [527A] |
-| 16 | [Graphs] Traversal | CP 4.2.1-2 | UVa 539 | TODO |
-| 17 | [Graphs] Basic Algos | CP 4.2.3-5, [Wiki](https://en.wikipedia.org/wiki/Topological_sorting) | TODO | TODO |
-| 18 | [Graphs] Basic Algos | CP 4.2.6-7 | TODO | TODO |
-| 19 | [Graphs] Basic Algos | CP 4.2.8-9 | TODO | TODO |
-| 20 | [Graphs] Minimum Spanning Tree | CP 4.3 | TODO | TODO |
-| 21 | [Graphs] Single-Source Shortest Path | CP 4.4.1-3 | TODO | TODO |
+| 16 | [Graphs] Traversal | CP 4.2.1-2 | UVa [280, 12442], CF[277A, 115A, 61D] | TODO |
+| 17 | [Graphs] Basic Algos | CP 4.2.3-4, [Wiki](https://en.wikipedia.org/wiki/Topological_sorting) | UVa [459, 11906, 11953, 626], CF 60B | TODO |
+| 18 | [Graphs] Basic Algos | CP 4.2.5-7 | UVa [10305, 11060, 11396, 10505], CF 103B | TODO |
+| 19 | [Graphs] Basic Algos | CP 4.2.8-9 | UVa [315, 610, 10199, 11709, 11504] | TODO |
+| 20 | [Graphs] Minimum Spanning Tree | CP 4.3 | UVa [11631,,,, ] | TODO |
+| 21 | [Graphs] Single-Source Shortest Path | CP 4.4.1-3 | UVa [1112,,,, 10356] | TODO |
 | 22 | [Math] Adhoc Problems | CP 5.1, 5.2 | TODO | TODO |
 | 23 | [Math] Adhoc Problems | CP 5.2 | TODO | TODO |
 | 24 | [Math] Long Arithmetic | CP 5.3 | TODO | TODO |
@@ -75,5 +75,5 @@ Practice Style: new topics (2 easy + 3 medium problems) + extra implementation p
     - For CF problems, you can see other accepted submissions.
     - For UVa problems, check [this repo](https://github.com/AhmadElsagheer/UVa-Solutions) or google it.
     
-- Contribution
+- Practice and Contribution
     - If you are following this plan and want to contribute to it, send an access request to [this google sheet](https://docs.google.com/spreadsheets/d/1J-8hU8HrxXnAPNpku_zyAPzObq0_cpiDq1j0BK8y55Q/edit?usp=sharing). You will get a column with your name at which you can add links to your solutions, information about time taken to finish the tasks and your own comments on the problems.
