@@ -38,7 +38,7 @@ public class ArticulationPointsAndBridges {
 				if(dfs_low[v] >= dfs_num[u])
 					artPoints[u] = true;
 				if(dfs_low[v] > dfs_num[u])
-					System.out.printf("Bridge between %d %d\n", u, v);
+					System.out.printf("Bridge between %d %d%n", u, v);
 				dfs_low[u] = Math.min(dfs_low[v], dfs_low[u]);
 			}
 			else
