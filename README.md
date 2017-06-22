@@ -13,7 +13,7 @@ Code library for competitive programming purposes.
     - [Quad Tree](trees/QuadTree.java)
   - [Sparse Table](data_structures/SparseTable.java)
   - [Disjoint-Sets Union](data_structures/UnionFind.java)
-  - [SQRT_Decomposition.java](data_structures/SQRT_Decomposition.java)	
+  - [SQRT Decomposition](data_structures/SQRT_Decomposition.java)	
   - [Mo's Algorithm](data_structures/MoAlgorithm.java)
   - [Skiplist](data_structures/SkipList.java)
   - [Indexable Skiplist](data_structures/IndexableSkipList.java)
