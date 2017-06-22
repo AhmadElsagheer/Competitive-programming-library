@@ -67,4 +67,27 @@ public class Exponentiation {
 		
 		return ans;
 	}
+	
+	// 5. Power of big numbers
+	static String powBig(int a, int b)
+	{
+		int[] ret = new int[5000];
+		ret[4999] = 1;
+		while(b-->0)
+		{
+			int c = 0;
+			for(int j = 4999; j >= 0; --j)
+			{
+				int p = c + a * ret[j];
+				c = p/10;
+				ret[j] = p%10;
+				
+			}
+		}
+		String s = "";
+		for(int i = 0; i < ret.length; ++i)
+			if(!s.isEmpty() || ret[i] != 0)
+				s += ret[i];
+		return s;
+	}
 }
