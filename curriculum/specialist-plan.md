@@ -56,11 +56,11 @@ Pracitce Style: topics + medium problems on basic topics in [pupil plan](https:/
 | 3 | [SP] Dynamic Programming | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/) | UVa [1172, 116, 10911, 1238, 882] | CF [671A, 354A], UVa [11487, 1064, 11267] |
 | 4 | [DS] Disjoint-sets Union | CP 2.4.2,	[Maximal](http://e-maxx.ru/algo/dsu) |  TODO | TODO |
 | 5 | [DS] Sparse Table | CP 9.33 |  TODO | UVa 12192 |
-| 6 | [Graphs] Floyd-Warshall | CP 4.4.5 |  TODO | TODO |
-| 7 | [Graphs] Bellman-Ford | CP 4.4.4 |  TODO | UVa 12583 |
+| 6 | [Graphs] Floyd-Warshall | CP 4.4.5 |  UVa [10525] | TODO |
+| 7 | [Graphs] Bellman-Ford | CP 4.4.4 |  UVa[558] | UVa 12583 |
 | 8 | [Math] Number Theory | CP 5.5.1-5 |  TODO | TODO |
 | 9 | [Math] Number Theory | CP 5.5.6-9 |  TODO | CF 721D |
-| 10 | [SP] State-Space Search | CP 8.2.3 |  TODO | UVa 11491 |
+| 10 | [SP] State-Space Search | CP 8.2.3 |  CF [520B] | UVa 11491 |
 | 11 | [SP] Meet-in-the-Middle | CP 8.2.4 |  TODO | TODO |
 | 12 | [DS] Segment Trees | CP 2.4.3 |  TODO | TODO |
 | 13 | [DS] Segment Trees | [Maximal](http://e-maxx.ru/algo/segment_tree) |  TODO | TODO |
@@ -68,7 +68,7 @@ Pracitce Style: topics + medium problems on basic topics in [pupil plan](https:/
 | 15 | [Graphs] Eulerian Graph | CP 4.7.3 |  TODO | TODO |
 | 16 | [Graphs] DAGs | CP 4.7.1 |  TODO | TODO |
 | 17 | [Graphs] DAGs | CP 4.7.1 |  TODO | TODO |
-| 18 | [Geometry] Polygons | CP 7.3 |  UVa 10170 | TODO |
+| 18 | [Geometry] Polygons | CP 7.3 |  UVa 10170 | UVa 539 |
 | 19 | [Geometry] Polygons | CP 7.3 |  TODO | TODO |
 | 20 | [Geometry] Polygons | CP 7.3 |  TODO | CF 79B |
 | 21 | [Strings] String Matching: Prefix Function | [Maximal](http://e-maxx.ru/algo/prefix_function), CP 6.4.2 |  TODO | TODO |
@@ -104,6 +104,6 @@ Pracitce Style: topics + medium problems on basic topics in [pupil plan](https:/
     - For CF problems, you can see other accepted submissions.
     - For UVa problems, check [this repo](https://github.com/AhmadElsagheer/UVa-Solutions) or google it.
     
-- Contribution
+- Practice and Contribution
     - If you are following this plan and want to contribute to it, send an access request to [this google sheet](https://docs.google.com/spreadsheets/d/1wl-Sooml35n2xpXnsQ71yR0uBWpz3OEv1GybpGlH71Q/edit?usp=sharing). You will get a column with your name at which you can add links to your solutions, information about time taken to finish the tasks and your own comments on the problems.
     
