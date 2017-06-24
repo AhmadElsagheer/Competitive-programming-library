@@ -19,7 +19,34 @@ Code library for competitive programming purposes.
   - [Indexable Skiplist](data_structures/IndexableSkipList.java)
   - [Heavy-Light Decomposition](data_structures/HLD.java)
   - [Treaps](data_structures/TreapSet.java)
-- Graphs
+- [Graphs](graphs)
+  - [Graph Traversal and Basic Algorithms](graphs/traversal)
+    - [Graph Traversal](graphs/traversal/GraphTraversal.java)
+    - [Articulation Points and Bridges](graphs/traversal/ArticulationPointsAndBridges.java)
+    - [Bridge Tree](graphs/traversal/BridgeTree.java)
+    - [Strongly Connected Components](graphs/traversal/StronglyConnectedComponents1.java)
+    - [Kosaraju Algorithm](graphs/traversal/KosarajuAlgorithm.java)
+    - [Biconnected Components](graphs/traversal/BiconnectedComponents.java)
+  - [Shortest Path](graphs/shortest_path)
+    - [Single-Source Shortest Path](graphs/shortest_path/SSSP.java)
+    - [All-Pairs Shortest Path](graphs/shortest_path/APSP.java)
+  - [Minimum Spanning Tree](graphs/mst)
+    - [Prim's Algorithm](graphs/mst/MST_Prim.java)
+    - [Kruskal's Algorithm](graphs/mst/MST_Kruskal.java)
+  - [Special Graphs](graphs/special)
+    - [Euler Tour (for Eulerian Graphs)](graphs/special/EulerTour.java)
+    - [Maximum Cardinality Bipartite Matching](graphs/special/MCBM.java)
+  - [Max Flow](graphs/max_flow)
+    - [Edmonds-Karp Algorithm](graphs/max_flow/MaxFlow1.java)
+    - [Dinic's Algorithm](graphs/max_flow/MaxFlow2.java)
+    - [Tarjan's (Push-Relabel) Algorithm](graphs/max_flow/MaxFlow3.java)
+  - [Trees](graphs/trees)
+    - [Tree Traversal](graphs/trees/TreeTraversal.java)
+    - [Euler Walk (tin and tout)](graphs/trees/EulerWalk.java)
+    - [Lowest Common Ancestor](graphs/trees/LCA.java)
+    - [Tree Diameter](graphs/trees/TreeDiameter.java)
+    
+
 - Math
 - Geometry
 - Strings
