@@ -53,8 +53,8 @@ Pracitce Style: topics + medium problems on basic topics in [pupil plan](https:/
 | :-----------: |:-------------:| :---------:|:-----------------:|:--------------:|
 | 1 | [SP] Dynamic Programming | CP 3.5.1, 3.5.3, CLRS 15 | UVa [10130, 11341, 10313, 10036, 11420] | UVa [735, 10050, 567D], CF [60A, 291D] |
 | 2 | [SP] Dynamic Programming | CP 3.5.2, 9.3, 9.20 |  UVa [10667, 10534, 11284, 1096, 348] | CF [598D, 335A, 250C, 593B], UVa 11201 |
-| 3 | [SP] Dynamic Programming | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/) | UVa [1172, 116, 10911, 1238, 882] | CF [671A, 354A], UVa [11487, 1064, 11267] |
-| 4 | [DS] Disjoint-sets Union | CP 2.4.2,	[Maximal](http://e-maxx.ru/algo/dsu) |  UVa [10583, 12460, 11474, 1197, 10608] | UVa [10462, 837] |
+| 3 | [SP] Dynamic Programming | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/) | UVa [1172, 116, 10911, 1238, 882] | CF [354A, 551C], UVa [10462, 837, 11267] |
+| 4 | [DS] Disjoint-sets Union | CP 2.4.2,	[Maximal](http://e-maxx.ru/algo/dsu) |  UVa [10583, 12460, 11474, 1197, 10608] | TODO |
 | 5 | [DS] Sparse Table | CP 9.33 |  TODO | UVa 12192 |
 | 6 | [Graphs] Floyd-Warshall | CP 4.4.5 |  UVa [10525] | UVa 10397 |
 | 7 | [Graphs] Bellman-Ford | CP 4.4.4 |  UVa[558] | UVa 12583 |
