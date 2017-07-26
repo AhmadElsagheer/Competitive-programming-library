@@ -36,7 +36,7 @@ Practice Style: new topics (2 easy + 3 medium problems) + extra implementation p
 | 3 | [DS] Linear DS | CP 2.1, 2.2 | UVa [11581, 10264, 11988, 540, 10172] | CF [61A, 379A, 344A, 119A, 510A] |
 | 4 | [DS] Non-linear DS | CP 2.3 | UVa [11849, 417, 10954, 10815, 11995] | CF [228A, 520A, 405A, 141A, 59A] |
 | 5 | [DS] Non-linear DS | CP 2.3 | UVa [11062, 11286, 1203, 12504, 11348] | CF [339B, 466A, 492A, 313A, 581A] |
-| 6 | [DS] Sortings: Merge Sort and Inversion Index | CLRS 2.3, CP 9.14 | UVa [229, 10327], [HR 1](https://www.hackerrank.com/contests/101hack35/challenges/larrys-array) | CF [677A, 705A, 200B, 540A, 268B] |
+| 6 | [DS] Sortings: Merge Sort and Inversion Index | CLRS 2.3, CP 9.14 | UVa [299, 10327], [HR 1](https://www.hackerrank.com/contests/101hack35/challenges/larrys-array) | CF [677A, 705A, 200B, 540A, 268B] |
 | 7 | [DS] Sortings: Counting and Radix Sort | [Wiki](https://en.wikipedia.org/wiki/Counting_sort), CP 9.32 | UVa 11462, CF [686B, 652B] | CF [432A, 711A, 509A, 327A, 703A] |
 | 8 | [SP] Brute Force | CP 3.1, CP 3.2.1| CF [25A, CF 520A], UVa [102, 1260, 1237] | CF [427A, 519B, 707A, 577A, 490A] |
 | 9 | [SP] Brute Force | CP 3.2.2 | UVa [524, 167, 624, 10360, 12346] | CF [476A, 448A, 474A, 599A, 149A] |
