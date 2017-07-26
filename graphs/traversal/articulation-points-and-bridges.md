@@ -6,12 +6,12 @@ To understand why the algorithm for articulation points and bridges work, you mu
 
 ##### DFS Spanning Tree
 
-Any graph can be converted to a DFS spanning tree which is a tree with two types of edges:
+Any graph can be converted to a DFS spanning tree which is a tree with two types of directed edges:
 
-1. Tree edges: direct edges from _u_ to _v_. _u_ is visited before _v_ and _u_ is the direct parent of _v_.
+1. Tree edges: edges from _u_ to one of its children _v_. _u_ is visited before _v_ and _u_ is the direct parent of _v_.
 2. Back edges: edges from _u_ to one of its ancestors _v_. _v_ is visited before _u_.
 
-A single graph may have many different DFS spanning trees. To construct any of them, pick an arbitrary node and visit
+A graph may have many different DFS spanning trees. To construct any of them, pick an arbitrary node and visit
 all the nodes one by one:
 
 - When the edge leads from EXPLORED node to UNVISITED node, then this edge is a tree edge.
@@ -45,5 +45,5 @@ Note that there is a special case when _u_ is the root of the tree.
 
 ### How to find bridges ?
 For node _u_, if there exists a child _v_ such that _dfsNum[u] > dfsLow[v]_, then _v_ cannot visit _u_ if the edge from
-_u_ to _v_ is removed from the graph. In this case, edge _u_ -> _v_ is a bridge.
+_u_ -> _v_ is removed from the graph. In this case, edge _u_ -> _v_ is a bridge.
 
