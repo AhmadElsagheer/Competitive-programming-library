@@ -54,13 +54,13 @@ Pracitce Style: topics + medium problems on basic topics in [pupil plan](https:/
 | 1 | [SP] Dynamic Programming | CP 3.5.1, 3.5.3, CLRS 15 | UVa [10130, 11341, 10313, 10036, 11420] | UVa [735, 10050, 567D], CF [60A, 291D] |
 | 2 | [SP] Dynamic Programming | CP 3.5.2, 9.3, 9.20 |  UVa [10667, 10534, 11284, 1096, 348] | CF [598D, 335A, 250C, 593B], UVa 11201 |
 | 3 | [SP] Dynamic Programming | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/) | UVa [1172, 116, 10911, 1238, 882] | CF [354A, 551C], UVa [10462, 837, 11267] |
-| 4 | [DS] Disjoint-sets Union | CP 2.4.2,	[Maximal](http://e-maxx.ru/algo/dsu) |  UVa [10583, 12460, 11474, 1197, 10608] | TODO |
-| 5 | [DS] Sparse Table | CP 9.33 |  TODO | UVa 12192 |
-| 6 | [Graphs] Floyd-Warshall | CP 4.4.5 |  UVa [10525] | UVa 10397 |
-| 7 | [Graphs] Bellman-Ford | CP 4.4.4 |  UVa[558] | UVa 12583 |
-| 8 | [Math] Number Theory | CP 5.5.1-5 |  TODO | TODO |
-| 9 | [Math] Number Theory | CP 5.5.6-9 |  TODO | CF 721D |
-| 10 | [SP] State-Space Search | CP 8.2.3 |  CF [520B] | UVa 11491 |
+| 4 | [DS] Disjoint-sets Union | CP 2.4.2,	[Maximal](http://e-maxx.ru/algo/dsu) |  UVa [10583, 12460, 11474, 1197, 10608] | CF [75D, 254C, 229B, 404B], UVa 1250 |
+| 5 | [DS] Sparse Table | CP 9.33 |  TODO | UVa [12192] |
+| 6 | [Graphs] Floyd-Warshall | CP 4.4.5 |  UVa [10525] |  CF 817C, UVa [10369, 10364, 11456, 10397] |
+| 7 | [Graphs] Bellman-Ford | CP 4.4.4 |  UVa[558] | CF [58C, 331A2], UVa [10318, 551, 12583] |
+| 8 | [Math] Number Theory | CP 5.5.1-5 |  TODO | CF [425A, 205D, 59E], UVa [127, 11472] |
+| 9 | [Math] Number Theory | CP 5.5.6-9 |  TODO | CF [8C, 67D, 28B, 75B, 721D] |
+| 10 | [SP] State-Space Search | CP 8.2.3 |  CF [520B] | CF 25D, UVa [11491, 10309, 10874, 11258] |
 | 11 | [SP] Meet-in-the-Middle | CP 8.2.4 |  TODO | UVa 521 |
 | 12 | [DS] Segment Trees | CP 2.4.3 |  TODO | CF 665D, UVa 10174 |
 | 13 | [DS] Segment Trees | [Maximal](http://e-maxx.ru/algo/segment_tree) |  TODO | UVa 11226 |
@@ -85,7 +85,7 @@ Pracitce Style: topics + medium problems on basic topics in [pupil plan](https:/
 | 32 | [Math] Combinatorics: Inc-Exc Principle | check topics sheet |  TODO | UVa 10307 |
 | 33 | [Graphs] Max Flow | CP 4.6 |  TODO | CF 3D, UVa 10738 |
 | 34 | [Graphs] Max Flow | CP 4.6 |  TODO | UVa [10608, 10622] |
-| 35 | [Geometry] Circles | CP 7.2.3 |  TODO | UVa UVa [1243, 11415] |
+| 35 | [Geometry] Circles | CP 7.2.3 |  TODO | UVa [1243, 11415] |
 | 36 | [Geometry] Triangles | CP 7.2.4 |  TODO | UVa [1040, 10680] |
 | 37 | [Geometry] Quadrilaterals | CP 7.2.5 | TODO | CF [547B] |
 
