@@ -61,7 +61,7 @@ Pracitce Style: topics + medium problems on basic topics in [pupil plan](https:/
 | 8 | [Math] Number Theory | CP 5.5.1-5 |  TODO | TODO |
 | 9 | [Math] Number Theory | CP 5.5.6-9 |  TODO | CF 721D |
 | 10 | [SP] State-Space Search | CP 8.2.3 |  CF [520B] | UVa 11491 |
-| 11 | [SP] Meet-in-the-Middle | CP 8.2.4 |  TODO | TODO |
+| 11 | [SP] Meet-in-the-Middle | CP 8.2.4 |  TODO | UVa 521 |
 | 12 | [DS] Segment Trees | CP 2.4.3 |  TODO | TODO |
 | 13 | [DS] Segment Trees | [Maximal](http://e-maxx.ru/algo/segment_tree) |  TODO | TODO |
 | 14 | [DS] Fenwick Trees | CP 2.4.4, [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees) |  TODO | TODO |
@@ -69,10 +69,10 @@ Pracitce Style: topics + medium problems on basic topics in [pupil plan](https:/
 | 16 | [Graphs] DAGs | CP 4.7.1 |  TODO | TODO |
 | 17 | [Graphs] DAGs | CP 4.7.1 |  TODO | TODO |
 | 18 | [Geometry] Polygons | CP 7.3 |  UVa 10170 | UVa 539 |
-| 19 | [Geometry] Polygons | CP 7.3 |  TODO | TODO |
+| 19 | [Geometry] Polygons | CP 7.3 |  TODO | UVa 125 |
 | 20 | [Geometry] Polygons | CP 7.3 |  TODO | CF 79B |
 | 21 | [Strings] String Matching: Prefix Function | [Maximal](http://e-maxx.ru/algo/prefix_function), CP 6.4.2 |  TODO | TODO |
-| 22 | [Graphs] String Matching: Z-Algorithm | [Maximal](http://e-maxx.ru/algo/z_function), [Slides](https://drive.google.com/file/d/0B5oUbKPT4g_ETDBERy11NDBxemc/view?usp=sharing) |  TODO | TODO |
+| 22 | [Graphs] String Matching: Z-Algorithm | [Maximal](http://e-maxx.ru/algo/z_function), [Slides](https://drive.google.com/file/d/0B5oUbKPT4g_ETDBERy11NDBxemc/view?usp=sharing) |  TODO | UVa 334 |
 | 23 | [Graphs] Trees: Basic Algos | CP 4.7.2 |  TODO | TODO |
 | 24 | [Graphs] Trees: Euler walk & LCA | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/) |  TODO | TODO |
 | 25 | [Graphs] DSU on trees | CF blog |  TODO | TODO |
@@ -85,7 +85,7 @@ Pracitce Style: topics + medium problems on basic topics in [pupil plan](https:/
 | 32 | [Math] Combinatorics: Inc-Exc Principle | check topics sheet |  TODO | UVa 10307 |
 | 33 | [Graphs] Max Flow | CP 4.6 |  TODO | CF 3D |
 | 34 | [Graphs] Max Flow | CP 4.6 |  TODO | UVa 10608 |
-| 35 | [Geometry] Circles | CP 7.2.3 |  TODO | TODO |
+| 35 | [Geometry] Circles | CP 7.2.3 |  TODO | UVa 1243 |
 | 36 | [Geometry] Triangles | CP 7.2.4 |  TODO | UVa 1040 |
 | 37 | [Geometry] Quadrilaterals | CP 7.2.5 | TODO | CF [547B] |
 
