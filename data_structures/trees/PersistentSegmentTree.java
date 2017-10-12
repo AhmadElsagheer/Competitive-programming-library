@@ -1,7 +1,5 @@
 package data_structures.trees;
 
-import sun.security.provider.certpath.Vertex;
-
 public class PersistentSegmentTree {
 
     class Node
