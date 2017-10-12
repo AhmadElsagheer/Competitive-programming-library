@@ -16,6 +16,7 @@ public class SuffixTrie {
 			Node nxt = cur.next[c-'a'];
 			if(nxt == null)
 				nxt = cur.next[c - 'a'] = new Node();
+			cur = nxt;
 		}
 		cur.val = idx;
 	}
@@ -28,6 +29,7 @@ public class SuffixTrie {
 			Node nxt = cur.next[c-'a'];
 			if(nxt == null)
 				return -1;
+			cur = nxt;
 		}
 		return cur.val;
 	}

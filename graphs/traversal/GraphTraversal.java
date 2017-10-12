@@ -68,19 +68,19 @@ public class GraphTraversal {
 		for(int v: adjList[u])
 			if(status[v] == UNVISITED)
 			{
-				System.out.printf("Edge from %d to %d is %s\n", u, v, "tree edge");
+				System.out.printf("Edge from %d to %d is %s%n", u, v, "tree edge");
 				parent[v] = u;
 				dfs(v);
 			}
 			else
 				if(status[v] == VISITED)	//cross edges only occur in directed graph
-					System.out.printf("Edge from %d to %d is %s\n", u, v, "forwad/cross edge");
+					System.out.printf("Edge from %d to %d is %s%n", u, v, "forwad/cross edge");
 				else
 					if(parent[u] == v)
-						System.out.printf("Edge from %d to %d is %s\n", u, v, "bidirectional edge");
+						System.out.printf("Edge from %d to %d is %s%n", u, v, "bidirectional edge");
 					else
 					{
-						System.out.printf("Edge from %d to %d is %s\n", u, v, "back edge");
+						System.out.printf("Edge from %d to %d is %s%n", u, v, "back edge");
 						System.out.println("Cycle!");
 					}
 		status[u] = VISITED;

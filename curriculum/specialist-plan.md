@@ -53,40 +53,40 @@ Pracitce Style: topics + medium problems on basic topics in [pupil plan](https:/
 | :-----------: |:-------------:| :---------:|:-----------------:|:--------------:|
 | 1 | [SP] Dynamic Programming | CP 3.5.1, 3.5.3, CLRS 15 | UVa [10130, 11341, 10313, 10036, 11420] | UVa [735, 10050, 567D], CF [60A, 291D] |
 | 2 | [SP] Dynamic Programming | CP 3.5.2, 9.3, 9.20 |  UVa [10667, 10534, 11284, 1096, 348] | CF [598D, 335A, 250C, 593B], UVa 11201 |
-| 3 | [SP] Dynamic Programming | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/) | UVa [1172, 116, 10911, 1238, 882] | CF [671A, 354A], UVa [11487, 1064, 11267] |
-| 4 | [DS] Disjoint-sets Union | CP 2.4.2,	[Maximal](http://e-maxx.ru/algo/dsu) |  TODO | TODO |
-| 5 | [DS] Sparse Table | CP 9.33 |  TODO | UVa 12192 |
-| 6 | [Graphs] Floyd-Warshall | CP 4.4.5 |  TODO | TODO |
-| 7 | [Graphs] Bellman-Ford | CP 4.4.4 |  TODO | UVa 12583 |
-| 8 | [Math] Number Theory | CP 5.5.1-5 |  TODO | TODO |
-| 9 | [Math] Number Theory | CP 5.5.6-9 |  TODO | CF 721D |
-| 10 | [SP] State-Space Search | CP 8.2.3 |  TODO | UVa 11491 |
-| 11 | [SP] Meet-in-the-Middle | CP 8.2.4 |  TODO | TODO |
-| 12 | [DS] Segment Trees | CP 2.4.3 |  TODO | TODO |
-| 13 | [DS] Segment Trees | [Maximal](http://e-maxx.ru/algo/segment_tree) |  TODO | TODO |
-| 14 | [DS] Fenwick Trees | CP 2.4.4, [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees) |  TODO | TODO |
-| 15 | [Graphs] Eulerian Graph | CP 4.7.3 |  TODO | TODO |
-| 16 | [Graphs] DAGs | CP 4.7.1 |  TODO | TODO |
-| 17 | [Graphs] DAGs | CP 4.7.1 |  TODO | TODO |
-| 18 | [Geometry] Polygons | CP 7.3 |  UVa 10170 | TODO |
-| 19 | [Geometry] Polygons | CP 7.3 |  TODO | TODO |
+| 3 | [SP] Dynamic Programming | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/) | UVa [1172, 116, 10911, 1238, 882] | CF [354A, 551C], UVa [10462, 837, 11267] |
+| 4 | [DS] Disjoint-sets Union | CP 2.4.2,	[Maximal](http://e-maxx.ru/algo/dsu) |  UVa [10583, 12460, 11474, 1197, 10608] | CF [75D, 254C, 229B, 404B], UVa 1250 |
+| 5 | [DS] Sparse Table | CP 9.33 |  UVa [11235, 12674] | CF [38B, 667A], UVa [12192, 11515, 11824] |
+| 6 | [Graphs] Floyd-Warshall | CP 4.4.5 |  UVa [10525, 11047, 10171, 925, 439] |  CF 817C, UVa [10369, 10364, 11456, 10397] |
+| 7 | [Graphs] Bellman-Ford | CP 4.4.4 |  UVa [558, 10449, 10557, 11721] | CF [58C, 331A2], UVa [10318, 551, 12583] |
+| 8 | [Math] Number Theory | CP 5.5.1-5 |  UVa [91, 10200, 332, 10717, 568] | CF [425A, 205D, 59E], UVa [127, 11472] |
+| 9 | [Math] Number Theory | CP 5.5.6-9 |  CF 476C, UVa [516, 10061, 10820, 10212, 12043 10090] | CF [8C, 67D, 28B, 75B, 721D] |
+| 10 | [SP] State-Space Search | CP 8.2.3 |  CF 520B, UVa [12101, 652, 321, 12135] | CF 25D, UVa [11491, 10309, 10874, 11258] |
+| 11 | [SP] Meet-in-the-Middle | CP 8.2.4 |  TODO | UVa 521 |
+| 12 | [DS] Segment Trees | CP 2.4.3 |  TODO | CF 665D, UVa 10174 |
+| 13 | [DS] Segment Trees | [Maximal](http://e-maxx.ru/algo/segment_tree) |  TODO | UVa 11226 |
+| 14 | [DS] Fenwick Trees | CP 2.4.4, [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-indexed-trees) |  TODO | UVa 10673 |
+| 15 | [Graphs] Eulerian Graph | CP 4.7.3 |  TODO | UVa 408 |
+| 16 | [Graphs] DAGs | CP 4.7.1 |  TODO | UVa 11029 |
+| 17 | [Graphs] DAGs | CP 4.7.1 |  TODO | UVa 543 |
+| 18 | [Geometry] Polygons | CP 7.3 |  UVa 10170 | UVa 539 |
+| 19 | [Geometry] Polygons | CP 7.3 |  TODO | UVa [125, 133] |
 | 20 | [Geometry] Polygons | CP 7.3 |  TODO | CF 79B |
-| 21 | [Strings] String Matching: Prefix Function | [Maximal](http://e-maxx.ru/algo/prefix_function), CP 6.4.2 |  TODO | TODO |
-| 22 | [Graphs] String Matching: Z-Algorithm | [Maximal](http://e-maxx.ru/algo/z_function), [Slides](https://drive.google.com/file/d/0B5oUbKPT4g_ETDBERy11NDBxemc/view?usp=sharing) |  TODO | TODO |
-| 23 | [Graphs] Trees: Basic Algos | CP 4.7.2 |  TODO | TODO |
-| 24 | [Graphs] Trees: Euler walk & LCA | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/) |  TODO | TODO |
-| 25 | [Graphs] DSU on trees | CF blog |  TODO | TODO |
-| 26 | [Graphs] Trees: DP on trees | N/A |  TODO | TODO |
-| 27 | [Geometry] Line Sweep | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/line-sweep-algorithms/) |  TODO | TODO |
-| 28 | [Strings] Suffix Trie | CP 6.6.1-3 |  TODO | TODO |
-| 29 | [Math] Combinatorics| check topics sheet |  TODO | TODO |
+| 21 | [Strings] String Matching: Prefix Function | [Maximal](http://e-maxx.ru/algo/prefix_function), CP 6.4.2 |  TODO | CF 664A |
+| 22 | [Graphs] String Matching: Z-Algorithm | [Maximal](http://e-maxx.ru/algo/z_function), [Slides](https://drive.google.com/file/d/0B5oUbKPT4g_ETDBERy11NDBxemc/view?usp=sharing) |  TODO | CF 300C, UVa 334 |
+| 23 | [Graphs] Trees: Basic Algos | CP 4.7.2 |  TODO | UVa 10139 |
+| 24 | [Graphs] Trees: Euler walk & LCA | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/range-minimum-query-and-lowest-common-ancestor/) |  TODO | UVa 10633 |
+| 25 | [Graphs] DSU on trees | CF blog |  TODO | UVa 10006 |
+| 26 | [Graphs] Trees: DP on trees | N/A |  TODO | UVa 10871 |
+| 27 | [Geometry] Line Sweep | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/line-sweep-algorithms/) |  TODO | UVa 11267 |
+| 28 | [Strings] Suffix Trie | CP 6.6.1-3 |  TODO | UVa 967 |
+| 29 | [Math] Combinatorics| check topics sheet |  TODO | UVa [11894, 11730, 10047] |
 | 30 | [Graphs] Bipartite Graphs | CP 4.7.4 |  TODO | CF 681C |
-| 31 | [Graphs] Bipartite Graphs | CP 4.7.4 |  TODO | TODO |
-| 32 | [Math] Combinatorics: Inc-Exc Principle | check topics sheet |  TODO | TODO |
-| 33 | [Graphs] Max Flow | CP 4.6 |  TODO | CF 3D |
-| 34 | [Graphs] Max Flow | CP 4.6 |  TODO | TODO |
-| 35 | [Geometry] Circles | CP 7.2.3 |  TODO | TODO |
-| 36 | [Geometry] Triangles | CP 7.2.4 |  TODO | TODO |
+| 31 | [Graphs] Bipartite Graphs | CP 4.7.4 |  TODO | CF 475D |
+| 32 | [Math] Combinatorics: Inc-Exc Principle | check topics sheet |  TODO | UVa 10307 |
+| 33 | [Graphs] Max Flow | CP 4.6 |  TODO | CF 3D, UVa 10738 |
+| 34 | [Graphs] Max Flow | CP 4.6 |  TODO | UVa [10608, 10622] |
+| 35 | [Geometry] Circles | CP 7.2.3 |  TODO | UVa [1243, 11415] |
+| 36 | [Geometry] Triangles | CP 7.2.4 |  TODO | UVa [1040, 10680] |
 | 37 | [Geometry] Quadrilaterals | CP 7.2.5 | TODO | CF [547B] |
 
 ### Notes
@@ -104,6 +104,6 @@ Pracitce Style: topics + medium problems on basic topics in [pupil plan](https:/
     - For CF problems, you can see other accepted submissions.
     - For UVa problems, check [this repo](https://github.com/AhmadElsagheer/UVa-Solutions) or google it.
     
-- Contribution
+- Practice and Contribution
     - If you are following this plan and want to contribute to it, send an access request to [this google sheet](https://docs.google.com/spreadsheets/d/1wl-Sooml35n2xpXnsQ71yR0uBWpz3OEv1GybpGlH71Q/edit?usp=sharing). You will get a column with your name at which you can add links to your solutions, information about time taken to finish the tasks and your own comments on the problems.
     
