@@ -27,7 +27,7 @@ public class LineSweep
 		{
 			int px = points[i].x, py = points[i].y;
 			while(left < i && px - points[left].x > d + EPS) cands.remove(points[left++]);
-			
+
 			Point down = new Point(px, py - (int)Math.ceil(d));
 			Point up = new Point(px, py + (int)Math.floor(d));
 			
