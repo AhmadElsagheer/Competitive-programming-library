@@ -30,16 +30,16 @@
 
 ### Problem Set #1
 
-| Problem        | Tags          | Notes  |
-|:------------- |:-------------|:-----|
-| Happy Segments      |  extra tags other than main tag    | main idea in problem or the extra trick that makes it non-standard, any problem with the statement or input   |
-| XOR Segments      | bit manipulation | standard  |
-| Sad Segments |       |  gcd on segment tree   |
+| Problem        | Tags          | Notes  | Solution |
+|:------------- |:-------------|:-----|:--------|
+| Happy Segments      |  extra tags other than main tag    | main idea in problem or the extra trick that makes it non-standard, any problem with the statement or input   | [link](https://github.com/AhmadElsagheer/Competitive-programming-library/tree/master/curriculum/outlines) |
+| XOR Segments      | bit manipulation | standard  | [link](https://github.com/AhmadElsagheer/Competitive-programming-library/tree/master/curriculum/outlines) |
+| Sad Segments |       |  gcd on segment tree   | [link](https://github.com/AhmadElsagheer/Competitive-programming-library/tree/master/curriculum/outlines) |
 
 ### Problem Set #2
-| Problem        | Tags          | Notes  |
-|:------------- |:-------------|:-----|
+| Problem        | Tags          | Notes  | Solution |
+|:------------- |:-------------|:-----|:-------|
 
 ### Problem Set #3
-| Problem        | Tags          | Notes  |
-|:------------- |:-------------|:-----|
+| Problem        | Tags          | Notes  | Solution |
+|:------------- |:-------------|:-----|:-------|
