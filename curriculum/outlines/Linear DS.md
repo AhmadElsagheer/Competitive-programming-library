@@ -1,11 +1,18 @@
 # Linear DS
 ---
 ## Outline
-1. Static Array
-	 1. 1D Static Array
-	 2. 2D Static Array
-	 3. 3D Static Array
+1. Static Arrays
+	 1. Creating 1D, 2D, ND Static Arrays.
+	 2. Accessing Time.
+	 3. Traversing a Static Array with N dimensions.
+	 4. 1D Array Manipulation
+	 	* Example: Shuffle an Array [Link to some examples](https://www.geeksforgeeks.org/array-data-structure/)
+	 4. 2D Array Manipulation
+	 	* Rotating a matrix.
+	 5. Pitfalls when creating a static array
+       		* Example: int[] a, b; a = b = new int[10]; will lead to a and b point to same array.
 2. Dynamically-Resizeable Array
+	 1.
 3. BitSet
 4. Bitmasks (Basic bit manipulation)
 	  * Example: Flipping i-th bit in an integer.
