@@ -5,12 +5,11 @@
 	 1. Creating 1D, 2D, ND Static Arrays.
 	 2. Accessing Time.
 	 3. Traversing a Static Array with N dimensions.
-	 4. 1D Array Manipulation
-	 	* Example: Shuffle an Array [Link](https://www.geeksforgeeks.org/array-data-structure/)
+	 4. 1D Array Manipulation [Link](https://www.geeksforgeeks.org/array-data-structure/)
 	 5. 2D Array Manipulation
 	 	* Example: Rotating a matrix.
 	 6. Pitfalls when creating a static array
-       		* Example: int[] a, b; a = b = new int[10]; will lead to a and b point to same array.
+	 	* Example: int[] a, b; a = b = new int[10]; will lead to a and b point to same array.
 2. Dynamically-Resizeable Array
 	 1. Creating ArrayLists , Vectors
 	 2. How this is achieved internally , Resizing complexity
@@ -24,7 +23,7 @@
 	
 4. Bitmasks
 	1. Bit Manipulation
-	  * Example: Flipping i-th bit in an integer.
+		* Example: Flipping i-th bit in an integer.
 5. LinkedLists
 	1. Operations and their Complexity 
 	2. Why it is usually avoided
