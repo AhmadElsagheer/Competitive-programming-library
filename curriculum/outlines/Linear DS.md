@@ -6,21 +6,39 @@
 	 2. Accessing Time.
 	 3. Traversing a Static Array with N dimensions.
 	 4. 1D Array Manipulation
-	 	* Example: Shuffle an Array [Link to some examples](https://www.geeksforgeeks.org/array-data-structure/)
-	 4. 2D Array Manipulation
-	 	* Rotating a matrix.
-	 5. Pitfalls when creating a static array
+	 	* Example: Shuffle an Array [Link](https://www.geeksforgeeks.org/array-data-structure/)
+	 5. 2D Array Manipulation
+	 	* Example: Rotating a matrix.
+	 6. Pitfalls when creating a static array
        		* Example: int[] a, b; a = b = new int[10]; will lead to a and b point to same array.
 2. Dynamically-Resizeable Array
-	 1.
+	 1. Creating ArrayLists , Vectors
+	 2. How this is achieved internally , Resizing complexity
+	 3. ArrayLists vs Vectores , which is better
+	 4. Operations complexity
+	 	* Example : add, get,remove
 3. BitSet
-4. Bitmasks (Basic bit manipulation)
+	1. Operations 
+		* Example: reset, set, cardinality , flip, nextSetBit , and, xor
+	2. Boolean arrays vs bitsets
+	
+4. Bitmasks
+	1. Bit Manipulation
 	  * Example: Flipping i-th bit in an integer.
 5. LinkedLists
+	1. Operations and their Complexity 
+	2. Why it is usually avoided
+		* Example: A linear scan is needed to access an element
 6. Stacks
+	1. Operations and their Complexity
+		* Example pop, push, peek, empty, search
+	2. Applications on Stacks [Link](https://www.geeksforgeeks.org/stack-data-structure/)
 7. Queues
+	1. Operations and their Complexity
+	2. Applications on Queues [Link](https://www.geeksforgeeks.org/queue-data-structure/)
 8. Dequeues
-    
+   	1. Operations and their Complexity
+	
 ---
 ## Problem Sets
 
