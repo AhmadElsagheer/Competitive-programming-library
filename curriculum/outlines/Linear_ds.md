@@ -1,49 +1,46 @@
 # Linear DS
 ---
 ## Outline
-1. Static Array
+1. Static Arrays
 	 1. Creating 1D, 2D, ND Static Arrays.
 	 2. Accessing Time.
 	 3. Traversing a static array with N dimensions.
-	 4. 1D Array Manipulation
-	 5. 2D Array Manipulation
+	 4. 1D Array Manipulation.
+	 5. 2D Array Manipulation.
 	 	* Example: Rotating a matrix.
-	 6. Pitfalls when creating a static array
-	 	* Example: int[] a, b; a = b = new int[10]; will lead to a and b point to same array.
-         7. Different sizes for different rows in a 2D static array.
-	        * Example: int[][] a = new int[2][]; a[0] = new int[10]; a[1] = new int[12];
-	 8. Algorithm used by Arrays.sort() on array of primitive types and on array of objects.
-2. Dynamically-Resizable Array
-	 1. Creating ArrayLists , Vectors
-	 2. How this is achieved internally , Resizing complexity
-	 3. ArrayLists vs Vectores , which is better
-	 4. Important functions and their complexity
-	 	* Example : add, get, remove
-	 5. Using Static Arrays with Dynamically-Resizable Arrays
-	        * ArrayList<Integer> a[];
-	 6. Algorithm used by Collections.sort()
-3. BitSet
-	1. Important functions and their complexity
-		* Example: reset, set, cardinality , flip, nextSetBit , and, xor
-	2. Boolean Arrays vs Bitsets
+	 6. Tricks and Pitfalls.
+	 
+2. Dynamically-Resizable Arrays
+	 1. Creating ArrayLists.
+	 2. Important functions and their complexities:
+	 	* `add, get, set, set, indexOf, size`
+	 2. How resizing is done internally + resizing complexity.
+	 5. Using Static Arrays with Dynamically-Resizable Arrays.
+	        * Example: `ArrayList<Integer> a[]`
+		
+3. Bitmasks
+	1. Bits as a data structure.
+	2. Bit Manipulation.	
 	
-4. Bitmasks
-	1. Bit Manipulation
-		* Example: Flipping i-th bit in an integer.
+4. BitSets
+	1. Important functions and their complexities:
+		* `reset, set, cardinality, flip, nextSetBit, xor`
+	2. Core idea behind BitSets.
+	
 5. LinkedLists
-	1. Important functions and their complexity
-	2. Why it is usually avoided
-		* Example: A linear scan is needed to find an element.
-	3. Time complexity of sorting LinkedLists.
+	1. Important functions and their complexities:
+		* `get, add, remove`
+		
 6. Stacks
-	1. Important functions and their complexity
-		* Example pop, push, peek, empty, search
+	1. Important functions and their complexities
+		* `pop, push, peek, isEmpty`
 	2. Applications on Stacks
+	
 7. Queues
 	1. Important functions and their complexity
 	2. Applications on Queues 
+	
 8. Dequeues
-   	1. Important functions and their complexity
 	
 ---
 ## Material Links
