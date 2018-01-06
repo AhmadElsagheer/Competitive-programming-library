@@ -15,7 +15,7 @@
 	 2. Important functions and their complexities:
 	 	* `add, get, set, set, indexOf, size`
 	 2. How resizing is done internally + resizing complexity.
-	 5. Using Static Arrays with Dynamically-Resizable Arrays
+	 5. Using Static Arrays with Dynamically-Resizable Arrays.
 	 	* `ArrayList<Integer> a[]`
 		
 3. Bitmasks
@@ -32,13 +32,13 @@
 		* `get, add, remove`
 		
 6. Stacks
-	1. Important functions and their complexities
+	1. Important functions and their complexities.
 		* `pop, push, peek, isEmpty`
-	2. Applications on Stacks
+	2. Applications on Stacks.
 	
 7. Queues
-	1. Important functions and their complexity
-	2. Applications on Queues 
+	1. Important functions and their complexities.
+	2. Applications on Queues.
 	
 8. Dequeues
 	
@@ -47,9 +47,9 @@
 | Resource                  | Points Covered                  |
 |:------------------------- |:--------------------------------|
 |CP section: 2.2            | Most of the outline points           |
-|[Link](https://www.geeksforgeeks.org/array-data-structure/)            | 1-iv 1D Array Manipulation           |
-|[Link](https://www.geeksforgeeks.org/stack-data-structure/)            | 6-ii Applications on Stacks           |
-|[Link](https://www.geeksforgeeks.org/queue-data-structure/)            | 7-ii Applications on Queues           |
+|[G4G Apps on Arrays](https://www.geeksforgeeks.org/array-data-structure/)            | 1-iv 1D Array Manipulation           |
+|[G4G Apps on Stacks](https://www.geeksforgeeks.org/stack-data-structure/)            | 6-ii Applications on Stacks           |
+|[G4G Apps on Queues](https://www.geeksforgeeks.org/queue-data-structure/)            | 7-ii Applications on Queues           |
 |[Supp Material](https://github.com/AhmadElsagheer/Competitive-programming-library/blob/master/curriculum/outlines/data_structures/linear_ds_supps.md)| 1-ii, 1-vi, 4-ii |
 
 ---
