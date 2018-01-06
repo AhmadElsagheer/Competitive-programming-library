@@ -73,13 +73,3 @@
 | [Machined Surfaces](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=355)      |  1D Array Manipulation    | count the number of 'X's in each row + keep track of their max   | [Link](https://ideone.com/VK956q) |
 | [Transform the Expression](http://www.spoj.com/problems/ONP/)      |  Stacks    | tricky way to use a stack , not direct   | [Link](https://ideone.com/urywUI) |
 | [The Most Potent Corner](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1205)      | Bitmasks    | Try to assign a number to every corner such that it is easy to find neighbours of a corner using bit manipulation   | [Link](https://ideone.com/QTrOoD) |
-
-### Problem Set #3
-
-| Problem        | Tags          | Notes  | Solution |
-|:------------- |:-------------|:-----|:--------|
-| [Theatre Square](http://codeforces.com/problemset/problem/1/A)      | Math    | _   | [Link](http://codeforces.com/contest/1/submission/17282154) |
-| [Watermelon](http://codeforces.com/problemset/problem/4/A)      |  Math    | _   | [Link](http://codeforces.com/contest/4/submission/8609715) |
-| [Way Too Long Words](http://codeforces.com/problemset/problem/71/A)      |  Strings    | _   | [Link](http://codeforces.com/contest/71/submission/6517037) |
-| [Next Round](http://codeforces.com/problemset/problem/158/A)      |  Implementation    | _   | [Link](http://codeforces.com/contest/158/submission/25087630) |
-| [String Task](http://codeforces.com/problemset/problem/118/A)      | Implementation, Strings    | _   | [Link](http://codeforces.com/contest/118/submission/9439045) |
