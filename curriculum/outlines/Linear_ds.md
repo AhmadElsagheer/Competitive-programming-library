@@ -15,8 +15,8 @@
 	 2. Important functions and their complexities:
 	 	* `add, get, set, set, indexOf, size`
 	 2. How resizing is done internally + resizing complexity.
-	 5. Using Static Arrays with Dynamically-Resizable Arrays.
-	        * Example: `ArrayList<Integer> a[]`
+	 5. Using Static Arrays with Dynamically-Resizable Arrays
+	 	* `ArrayList<Integer> a[]`
 		
 3. Bitmasks
 	1. Bits as a data structure.
@@ -43,14 +43,14 @@
 8. Dequeues
 	
 ---
-## Material Links
+## Material Resources
 | Resource                  | Points Covered                  |
 |:------------------------- |:--------------------------------|
-|CP section: 2.2            |Linear Data Structures           |
-|[Link](https://www.geeksforgeeks.org/array-data-structure/)            |1D Array Manipulation           |
-|CP pages: 36->38            |Bit Manipulation           |
-|[Link](https://www.geeksforgeeks.org/stack-data-structure/)            |Applications on Stacks           |
-|[Link](https://www.geeksforgeeks.org/queue-data-structure/)            |Applications on Queues           |
+|CP section: 2.2            | Most of the outline points           |
+|[Link](https://www.geeksforgeeks.org/array-data-structure/)            | 1-iv 1D Array Manipulation           |
+|[Link](https://www.geeksforgeeks.org/stack-data-structure/)            | 6-ii Applications on Stacks           |
+|[Link](https://www.geeksforgeeks.org/queue-data-structure/)            | 7-ii Applications on Queues           |
+|[Supp Material](https://github.com/AhmadElsagheer/Competitive-programming-library/blob/master/curriculum/outlines/data_structures/linear_ds_supps.md)| 1-ii, 1-vi, 4-ii |
 
 ---
 ## Problem Sets
