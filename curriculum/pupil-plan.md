@@ -1,19 +1,23 @@
 # Pupil Plan
 
-Duration: 28 acm days.
+Duration: XX acm days.
 
-Practice Style: new topics (2 easy + 3 medium problems) + extra implementation problems (5 easy/medium).
+Practice Style: topic + general
 
 ### Content
 
 - Getting Started
+    - CP Environment
+    - Adhoc Problems
 - Data Structures
-    - Linear and Non-linear DS
+    - Linear Data Structures
+    - Non-Linear Data Structures
     - Sortings
 - Problem-solving Paradigms
-    - Brute Force
+    - Brute Force and Introduction to DP
     - Greedy
     - Binary Search
+    - Sliding Window
 - Graphs
     - Representation
     - Graph traversal and basic algorithms
@@ -28,6 +32,15 @@ Practice Style: new topics (2 easy + 3 medium problems) + extra implementation p
     - Basic String Algorithms
     
 ### Timeline
+[New Plan]
+
+| Day           | Category         | Topic  | General Problems |
+| :-----------: |:-------------:| :---------:|:--------------:|
+| 1 | Getting Started | [CP Environment](outlines/getting_started/cp_environment.md) | - |
+| 2-4 | Getting Started | [Just Adhoc!](outlines/getting_started/adhoc.md) | - |
+| 5 | Data Structures | [Linear Data Structures](outlines/data_structures/linear_ds.md) | TODO |
+
+[Old Plan]
 
 | Day           | Topic         | Resources  | Problems on Topic | Extra Problems |
 | :-----------: |:-------------:| :---------:|:-----------------:|:--------------:|
