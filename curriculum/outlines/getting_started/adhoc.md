@@ -1,7 +1,14 @@
 # Adhoc
 ---
 ## Outline
-1. CP Section 1.4
+Just some Adhoc problems!
+
+---
+## Material Resources
+| Resource                  | Points Covered                  |
+|:------------------------- |:--------------------------------|
+| [Wiki page](https://en.wikipedia.org/wiki/Ad_hoc) | Ad hoc ? |
+| CP 1.4 | Just Adhoc! |
 
 ---
 ## Problem Sets
