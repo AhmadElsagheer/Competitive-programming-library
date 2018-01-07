@@ -1,11 +1,18 @@
 # CP Environment
 ---
 ## Outline
-### Introduction to Online Judges
-1. [Codeforces](https://www.codeforces.com)([ACP Codeforces Introduction](https://www.youtube.com/watch?v=7y6jB16zVl8&list=PLPt2dINI2MIaNcU070HIAO8JWYBcafuyG&index=5))
-2. [UVA](https://uva.onlinejudge.org/), [SPOJ](http://www.spoj.com/), [HackerRank](https://www.hackerrank.com/), [AtCoder](https://atcoder.jp/), [CSAcademy](https://csacademy.com/), ([ACP Other Judges](https://www.youtube.com/watch?v=hc_GdHypDqU&list=PLPt2dINI2MIaNcU070HIAO8JWYBcafuyG&index=8))
-### Competitive Programming Introduction
-1. CP Section 1.1 to 1.3
+1. Introduction to Competitive Programming
+2. Online Judges and Submission System
+3. Input reading and Output formatting
+---
+## Material Resources
+| Resource                  | Points Covered                  |
+|:------------------------- |:--------------------------------|
+|[TC tut1](https://www.topcoder.com/community/data-science/data-science-tutorials/the-importance-of-algorithms/) | Importance of Algos | 
+| CP 1.1 - 1.3 | 1: Intro to CP |
+| [TC tut2](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-dissect-a-topcoder-problem-statement/) | 1: How to dissect a problem |
+| ([ACP Youtube Video](https://www.youtube.com/watch?v=7y6jB16zVl8&list=PLPt2dINI2MIaNcU070HIAO8JWYBcafuyG&index=5) | 2: Using Codeforces |
+| (Supp Material)[] | I/O tutorial |
 
 ---
 ## Problem Sets
