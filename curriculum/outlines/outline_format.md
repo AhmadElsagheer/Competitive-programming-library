@@ -20,7 +20,8 @@
     Add three tables by the end of file, 
     - Three problem sets are needed:
         - Problem Set 1: 
-            - must-solve problems. Every problem must add a new thing. 
+            - must-solve problems. Every problem must add a new thing.
+            - Must cover the content of the topic.
             - problems count >= 5 * acm_days.
         - Problem Set 2:
             - extra problems. These problems will be solved by hard-working trainees.
