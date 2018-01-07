@@ -24,5 +24,5 @@
 | [Hulk](http://codeforces.com/problemset/problem/705/A)     |  -  | - | [link](http://codeforces.com/contest/705/submission/21388508) |
 | [Pangram](http://codeforces.com/problemset/problem/520/A)      | - | - |  [link](http://codeforces.com/contest/520/submission/15445288) |
 | [Wet Shark and Odd and Even](http://codeforces.com/problemset/problem/621/A) |   -    |   `int` overflow  | [link](http://codeforces.com/contest/621/submission/15737294) |
-| [Zeros and Ones](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1265) | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v103/ZerosAndOnes_UVa10324.java) |
-| [Burger Time](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2708) | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v116/BurgerTime_UVa11661.java) |
+| [Zeros and Ones](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1265) | - | linear solution | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v103/ZerosAndOnes_UVa10324.java) |
+| [Burger Time](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2708) | - | linear solution | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v116/BurgerTime_UVa11661.java) |
