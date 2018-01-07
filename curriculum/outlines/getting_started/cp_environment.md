@@ -12,7 +12,7 @@
 | CP 1.1 - 1.3 | 1: Intro to CP |
 | [TC tut2](https://www.topcoder.com/community/data-science/data-science-tutorials/how-to-dissect-a-topcoder-problem-statement/) | 1: How to dissect a problem |
 | [ACP Youtube Video](https://www.youtube.com/watch?v=7y6jB16zVl8&list=PLPt2dINI2MIaNcU070HIAO8JWYBcafuyG&index=5) | 2: Using Codeforces |
-| [Supp Material](io_tutorial.md) | I/O tutorial |
+| [Supp Material](io_tutorial.md) | 3: I/O tutorial |
 
 ---
 ## Problem Sets
