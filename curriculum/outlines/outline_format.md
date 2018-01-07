@@ -15,9 +15,11 @@
     - In resource, write a shorthand name for the link content.
     - In Points covered, write the point(s) number and optionally a shorthand point description.
 6. Add the problem sets
-    - Problem set structure:
-    - If there is a problem in the problem statement or its input, add it in the problem notes.
-    Add three tables by the end of file, 
+    - Problem set Structure:
+        - col 1: problem name and link
+        - col 2: tags - all tags except the main tag (outline topic)
+        - col 3: notes [VERY IMPORTANT] - hints, main outcome/idea, problems in the problem statement or its input.
+        - col 4: solution link
     - Three problem sets are needed:
         - Problem Set 1: 
             - must-solve problems. Every problem must add a new thing.
