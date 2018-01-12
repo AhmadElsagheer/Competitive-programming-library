@@ -10,7 +10,7 @@
 	 1. Implementation.
 	 2. Time complexity.
 	 3. Computing the inversion index in an array with/without using Merge Sort.
-	 	* Problem: [Inversion Count] (http://www.spoj.com/problems/INVCNT/)
+	 	* Problem: [Inversion Count](http://www.spoj.com/problems/INVCNT/)
    	 4. Inner implementation of Arrays.sort()
 	 	* Primitive vs Object arrays
 		* How to get around QuickSort worst-case
