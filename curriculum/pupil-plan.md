@@ -1,8 +1,8 @@
 # Pupil Plan
 
-Duration: XX acm days.
+Duration: 26 acm days.
 
-Practice Style: topic + general
+Practice Style: learning new topics + solving general problems.
 
 ### Content
 
@@ -46,15 +46,13 @@ Practice Style: topic + general
 | 4 | Data Structures | [Linear Data Structures](outlines/data_structures/linear_ds.md) | TODO |
 | 5 | Data Structures | [Non-Linear Data Structures](outlines/data_structures/nonlinear_ds.md)  | TODO |
 | 6 | Data Structures | [Sortings](outlines/data_structures/sortings.md) | TODO |
+| 7 | Solving Techniques | [Brute Force](outlines/solving_techniques/brute_force.md) | TODO |
 
 
 [Old Plan]
 
 | Day           | Topic         | Resources  | Problems on Topic | Extra Problems |
 | :-----------: |:-------------:| :---------:|:-----------------:|:--------------:|
-| 8 | [SP] Brute Force | CP 3.1, CP 3.2.1| CF [25A, CF 520A], UVa [102, 1260, 1237] | CF [427A, 519B, 707A, 577A, 490A] |
-| 9 | [SP] Brute Force | CP 3.2.2 | UVa [524, 167, 624, 10360, 12346] | CF [476A, 448A, 474A, 599A, 149A] |
-| 10 | [SP] Brute Force | CP 3.2.2, 3.2.3 | UVa [1251, 11201, 1064, 12515, 750] | CF [519A, 270A, 489C, 467B, 716A] |
 | 11 | [SP] Greedy | CP 3.4 | UVa[10340, 11900, 12405], CF [230A, 413C] | CF [230B, 567A, 439A, 459A, 474B] |
 | 12 | [SP] Greedy | CP 3.4 | UVa [10714, 12482, 11520, 11157, 10026] | CF [459B, 514A, 734B, 721A, 237A] |
 | 13 | [SP] Binary Search | CP 3.3 | UVa [10474, 10611], CF [279B, 165B, 812C] | CF [570A, 791A, 785A, 621A, 471A] |
@@ -75,7 +73,11 @@ Practice Style: topic + general
 | 28 | [Strings] Basic Algos | CP 6.3 | UVa [10340, 409, 10878], CF [50B, 91A] | CF [381A, 586A, 680B, 445A, 465A] |
 
 ### Notes
-     
+
+- How to use this plan:
+    - For coaches: use the outlines to prepare the sessions. Resources for session content preparation are provided in each outline in addition to the problem sets recommended for practice. The first problem set is a **must-solve** set of problems. The second problem set is recommend to master the topic described. The third problem set (if exists) is designed for those who didn't feel confident enough even after solving the first problem set to provide similar problems. It's not recommended for those who managed to solve problem set 1 and 2 (it's better for them to go to the next topic).
+    - For trainees: just go through the plan day by day. To learn a new topic, you can find all material links needed in the resources of each outline. Solve problem sets 1 (must) and 2 (highly recommended) without looking at the tags or notes ;) General problems are finely selected to let you enhance your problem solving skills in general as well as strengthen the topics you have already learnt, because it's important to solve problems without knowing their topic. So, we will put problems on topics you know in the general problems without telling you so!
+
 - Resources:
     - CP is [Competitive Programming 3](https://cpbook.net/).
     - CLRS is [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms).
