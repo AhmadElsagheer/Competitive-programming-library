@@ -18,19 +18,19 @@
 
 | Problem        | Tags          | Notes  | Solution |
 |:------------- |:-------------|:-----|:--------|
-| IQ test (CF-25-A) |   Bruteforce  |    |  |
-| Pangram (CF-520-B) |  Bruteforce   |    |  |
-| The Golden Age (CF-813-B) |  Bruteforce   |   Calculate the correct Complexity |  |
-| Non-square Equation (CF-233-B) |  Bruteforce   |  Choose the correct variable for search   |  |
-| T-Shirt Hunt (CF-807-B) |   Bruteforce  | Get the limit from the mod cycle  |  |
-| SRM671-D2-500 |  Bruteforce   |   |  |
-| UVa624 |   Backtracking  |  |  |
-| UVa10344 |  Backtracking   |  |  |
-| UVa167 |  Backtracking (8-Queens)  |  |  |
-| UVa524 |  Backtracking |  |  |
-| Divisibility by Eight CF-550-C |   Bruteforce  | rule for divisibility by 8  |  |
-| UVa10503 |  Backtracking  |   |  |
-| UVa574 |  Backtracking   |   |  |
+| [IQ test](http://codeforces.com/problemset/problem/25/A) |   Iterative  |    |  |
+| [Pangram](http://codeforces.com/problemset/problem/520/B) |  Iterative   |    |  |
+| [The Golden Age](http://codeforces.com/problemset/problem/813/B) |  Iterative   |   Calculate the correct Complexity |  |
+| [Non-square Equation](http://codeforces.com/contest/233/problem/B) |  Iterative   |  Choose the correct variable for search   |  |
+| [T-Shirt Hunt](http://codeforces.com/contest/807/problem/B) |   Iterative  | Get the limit from the mod cycle  |  |
+| [Bear Darts Div2](https://community.topcoder.com/stat?c=problem_statement&pm=13479) |  Bruteforce   |   |  |
+| [CD](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=565) |   Backtracking  |  |  |
+| [23 out of 5](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1285) |  Backtracking   |  |  |
+| [The Sultan's Successors](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=103) |  Backtracking (8-Queens)  |  |  |
+| [Prime Ring Problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=465) |  Backtracking |  |  |
+| [Divisibility by Eight](http://codeforces.com/contest/550/problem/C) |   Bruteforce  | rule for divisibility by 8  |  |
+| [The dominoes solitaire](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1444) |  Backtracking  |   |  |
+| [Sum it up](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=515) |  Backtracking   |   |  |
 |  |     |   |  |
 |  |     |   |  |
 
