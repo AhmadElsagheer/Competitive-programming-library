@@ -1,16 +1,15 @@
 # Brute Force
 ---
 ## Outline
-1. Iterative Brute Force. (Competitive Programming Section 3.2.1)
-
-2. Recursive Brute Force (Backtracking). (Programming Challenges Chapter 8) (Competitive Programming Section 3.2.2)
-
-3. Some tips for pruning in Iterative and Recursive styles. (Competitive Programming Section 3.2.3)
-	1. Prune as early as possible 
-	2. Precomputation of some data may be useful
-	3. Observing symmetry can limit the search space
-
-
+1. Iterative brute force
+2. Recursive brute force (Backtracking)
+3. Tips for writing efficient brute force solutions
+---
+## Material Resources
+| Resource                  | Points Covered                  |
+|:------------------------- |:--------------------------------|
+| CP 3.2 | All outline points |
+| Book: Programming Challenges (Ch. 8) | Backtracking |
 ---
 ## Problem Sets
 
