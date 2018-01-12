@@ -46,7 +46,7 @@ Practice Style: learning new topics + solving general problems.
 | 4 | Data Structures | [Linear Data Structures](outlines/data_structures/linear_ds.md) | TODO |
 | 5 | Data Structures | [Non-Linear Data Structures](outlines/data_structures/nonlinear_ds.md)  | TODO |
 | 6 | Data Structures | [Sortings](outlines/data_structures/sortings.md) | TODO |
-| 7 | Solving Techniques | [Brute Force](outlines/solving_techniques/brute_force.md) | TODO |
+| 7-9 | Solving Techniques | [Brute Force](outlines/solving_techniques/brute_force.md) | TODO |
 
 
 [Old Plan]
