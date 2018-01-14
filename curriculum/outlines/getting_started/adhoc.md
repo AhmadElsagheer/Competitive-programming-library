@@ -35,7 +35,7 @@ Just some Adhoc problems!
 | [Andrushya and Socks](http://codeforces.com/contest/782/problem/A) |       |     | [link](http://codeforces.com/contest/782/submission/25246355) |
 | [Taymyr is Calling You](http://codeforces.com/contest/764/problem/A) |       |     | [link](http://codeforces.com/contest/764/submission/24366650) |
 | [Sagheer and Crossroads](http://codeforces.com/problemset/problem/812/A) | | | [link](http://codeforces.com/contest/812/submission/27525235) |
-| [BusGame](http://codeforces.com/problemset/problem/79/A) |       |  xor turn variable   | [link](http://codeforces.com/contest/79/submission/33894006) |
+| [Bus Game](http://codeforces.com/problemset/problem/79/A) |       |  xor turn variable   | [link](http://codeforces.com/contest/79/submission/33894006) |
 | [Buses Between Cities](http://codeforces.com/problemset/problem/665/A) | | | [link](http://codeforces.com/contest/665/submission/17402539) |
 | [Case of Zeroes and Ones](http://codeforces.com/problemset/problem/556/A) |       |     | [link](http://codeforces.com/contest/556/submission/17295036) |
 
