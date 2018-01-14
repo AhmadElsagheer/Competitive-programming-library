@@ -17,17 +17,11 @@ Just some Adhoc problems!
 
 | Problem        | Tags          | Notes  | Solution |
 |:------------- |:-------------|:-----|:--------|
-| [Next Round](http://codeforces.com/contest/158/problem/A) |       |     | [link](http://codeforces.com/contest/158/submission/9439064) |
-| [Buy a Shovel](http://codeforces.com/contest/732/problem/A) |       |     | [link](http://codeforces.com/contest/732/submission/21533265) |
-| [Beautiful Matrix](http://codeforces.com/contest/263/problem/A) |       |     | [link](http://codeforces.com/contest/263/submission/12431609) |
-| [Is it Rated?](http://codeforces.com/contest/807/problem/A) |       |     | [link](http://codeforces.com/contest/807/submission/26927293) |
-| [Beautiful Year](http://codeforces.com/problemset/problem/271/A) |       |     | [link](http://codeforces.com/contest/271/submission/14757983) |
 | [Link/Cut Tree](http://codeforces.com/contest/614/problem/A) |       |     | [link](http://codeforces.com/contest/614/submission/33904167) |
 | [New Year and Hurry](http://codeforces.com/problemset/problem/750/A) |       |     | [link](http://codeforces.com/contest/750/submission/23424683) |
 | [NoRepeat](https://csacademy.com/contest/round-59/task/no-repeat/) |       |     | [link](https://csacademy.com/submission/1109160/) |
 | [Multiplication Table](http://codeforces.com/problemset/problem/577/A) |       |     | [link](http://codeforces.com/contest/577/submission/12926515) |
 | [Horror Dash](https://uva.onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2899) |       |     | [link](https://github.com/morris821028/UVa/blob/master/volume117/11799%20-%20Horror%20Dash.cpp) |
-| [Splitting Numbers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3084) |       |     | [link](https://github.com/tanhauhau/UVa-Practice/blob/master/UVa%2011933%20Splitting%20Numbers.java) |
 | [Rewards](http://codeforces.com/problemset/problem/448/A) |       |     | [link](http://codeforces.com/contest/448/submission/21388142) |
 | [Crazy Computer](http://codeforces.com/problemset/problem/716/A) |       |     | [link](http://codeforces.com/contest/716/submission/22037288) |
 | [MUH and Sticks](http://codeforces.com/problemset/problem/471/A) |       |     | [link](http://codeforces.com/contest/471/submission/22035567) |
@@ -39,7 +33,6 @@ Just some Adhoc problems!
 | [Theatre Square](http://codeforces.com/problemset/problem/1/A)     |     |  | [link](http://codeforces.com/contest/1/submission/14668589) |
 | [Watermelon](http://codeforces.com/problemset/problem/4/A)      |  |  |  [link](http://codeforces.com/contest/4/submission/12711726) |
 | [Way Too Long Words](http://codeforces.com/problemset/problem/71/A) |       |     | [link](http://codeforces.com/contest/71/submission/14758133) |
-| [Next Round](http://codeforces.com/problemset/problem/158/A) |       |     | [link](http://codeforces.com/contest/158/submission/14048648) |
 | [String Task](http://codeforces.com/problemset/problem/118/A) |       |     | [link](http://codeforces.com/contest/118/submission/14562172) |
 | [George and Accomodation](http://codeforces.com/problemset/problem/467/A) |       |     | [link](http://codeforces.com/contest/467/submission/14661725) |
 | [String Task](http://codeforces.com/problemset/problem/118/A) |       |     | [link](http://codeforces.com/contest/118/submission/14562172) |
