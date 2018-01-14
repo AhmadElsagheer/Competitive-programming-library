@@ -42,7 +42,7 @@ The contract between the problem solver and the online judge is based on taking 
   2. The file consists of multiple test cases and there will be a character that indicates the end of file. For example, a line containing a single `0`. In such case, you should terminate immediately and stop reading any more input.
   3. The file consists of multiple test cases and nothing to indicate the end of file. In such case, you have to read till *End Of File (EOF)* (the file has no more lines to read). You can check EOF in multiple ways:
       - Read a new line (`sc.nextLine()` or `br.readLine()`) and if the returned value is `null`, then you reached EOF.
-      - Use input readers functions such as `br.ready()` or `sc.hasNext()` which returns true if EOF is reached.
+      - Use input readers functions such as `br.ready()` or `sc.hasNext()` which returns false if EOF is reached.
 
 - BufferedReader is much more faster than Scanner. Only use the Scanner in case of small inputs (n < 1e5).
 - You can implement your own Scanner class to help you get rid of the tedious syntax of using the BufferedReader and the StringTokenizer. This class will have a BufferedReader and a StringTokenizer as its instance variables and some methods similar to that of a Scanner (`nextInt()`, `ready()`,...).
