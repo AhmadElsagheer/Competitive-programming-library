@@ -33,7 +33,7 @@ The contract between the problem solver and the online judge is based on taking 
   StringTokenizer st = new StringTokenizer(br.readLine());
   int x = Integer.parseInt(st.nextToken());
   int y = Integer.parseInt(st.nextToken());
-  long z = Long.parseLong(st.nextToken());
+  long z = Long.parseLong(br.readLine());
   String s = br.readLine();
   ```
 
