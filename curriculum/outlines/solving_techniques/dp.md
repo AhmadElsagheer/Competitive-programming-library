@@ -33,7 +33,6 @@
 ## Material Resources
 | Resource                  | Points Covered                  |
 |:------------------------- |:--------------------------------|
-| CLRS ch. 15 introduction | DP concepts |
 |CP section 3.5, 9.3       | 3, 4, 6           |
 |CP section 8.3            | 5: Tricks 1-4     |
 |[G4G: Basic Concepts section](https://www.geeksforgeeks.org/dynamic-programming/#concepts)            | 2, 3 |
