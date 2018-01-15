@@ -36,6 +36,7 @@
 |CP section 3.5, 9.3       | 3, 4, 6           |
 |CP section 8.3            | 5: Tricks 1-4     |
 |[G4G: Basic Concepts section](https://www.geeksforgeeks.org/dynamic-programming/#concepts)            | 2, 3 |
+| CLRS Chapter 15 | DP concepts |
 
 ---
 ## Problem Sets
