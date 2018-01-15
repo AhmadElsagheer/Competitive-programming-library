@@ -1,38 +1,33 @@
-# Non-Linear DS
+# Dynamic Programming
 ---
 ## Outline
-1. Basic concept
-	 
-2. Top-down Dynamic Programming
-	 
-3. Bottom-up Dynamic Programming
-
-4. Dynamic Programming vs Greedy
-
-5. Top-down vs Bottom-up
-   1. Way of thinking
-   2. Which is better if not all states are needed
-   3. Mention the Stack overflow, MLE problems.
-
-6. Printing the optimal solution
-
-7. Memory optimizations
-
-8. Tricks
-   1. Making an offset of the states can have negative values.
-   2. Reducing the number of states if a state can be concluded from the others.
-   3. Using a Map as a Memo.
+1. Comparison between solving paradigms: how the search space is manipulated.
+2. Dynamic programming concepts
+	- state, transition, optimization of objective function
+	- memoization
+3. Top-down approach vs Bottom-up approach
+	- way of thinking
+	- implementation
+	- pros and cons
+4. Printing the optimal solution
+5. Tricks
+   1. DP with bitmasks
+   	- Example: [Forming Quiz Teams](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1852)
+   2. Offset Technique: Handling Negative Parameter Values
+   	- Example: [Free Parentheses](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3679)
+   2. Parameter Drop (MLE/TLE avoidance)
+   3. Using a Map as a memo table (MLE avoidance | Top-down)
+   4. Dimension Compression (MLE avoidance | Bottom-up)
    
-9. Classical Examples
-	1. Max 1D Range Sum
-	2. Max 2D Range Sum
-	3. Longest Increasing Subsequence (LIS)
-	4. 0-1 Knapsack (Subset Sum)
-	5. Coin Change (CC) 
-	6. Traveling Salesman Problem (TSP)
-
-10. Non Classical Examples
-	
+6. Classical Examples
+	1. 0-1 Knapsack (Subset Sum)
+	2. Edit Distance
+	3. Longest Common Subsequence
+	4. Longest Increasing Subsequence (LIS)
+	5. Max 1D Range Sum
+	6. Max 2D Range Sum
+	7. Traveling Salesman Problem (TSP)
+	8. Bitonic Traveling Salesman Problem	
 ---
 ## Material Resources
 | Resource                  | Points Covered                  |
