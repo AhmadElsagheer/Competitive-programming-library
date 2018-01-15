@@ -3,22 +3,21 @@
 ## Outline
 1. Comparison between solving paradigms: how the search space is manipulated.
 2. Dynamic programming concepts
-	- state, transition, optimization of objective function
-	- memoization
+	1. state, transition, optimization of objective function
+	2. memoization
 3. Top-down approach vs Bottom-up approach
-	- way of thinking
-	- implementation
-	- pros and cons
+	1. way of thinking
+	2. implementation
+	3. pros and cons
 4. Printing the optimal solution
 5. Tricks
-   1. DP with bitmasks
-   	- Example: [Forming Quiz Teams](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1852)
-   2. Offset Technique: Handling Negative Parameter Values
-   	- Example: [Free Parentheses](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3679)
-   2. Parameter Drop (MLE/TLE avoidance)
-   3. Using a Map as a memo table (MLE avoidance | Top-down)
-   4. Dimension Compression (MLE avoidance | Bottom-up)
-   
+	1. DP with bitmasks
+   		- Example: [Forming Quiz Teams](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1852)
+	2. Offset Technique: Handling Negative Parameter Values
+   		- Example: [Free Parentheses](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3679)
+	3. Parameter Drop (MLE/TLE avoidance)
+	4. Using a Map as a memo table (MLE avoidance | Top-down)
+	5. Dimension Compression (MLE avoidance | Bottom-up)
 6. Classical Examples
 	1. 0-1 Knapsack (Subset Sum)
 	2. Edit Distance
