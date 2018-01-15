@@ -2,6 +2,7 @@
 ---
 ## Outline
 1. Comparison between solving paradigms: how the search space is manipulated.
+	- greedy vs D&C vs brute force vs DP
 2. Dynamic programming concepts
 	1. state, transition, optimization of objective function
 	2. memoization
@@ -16,6 +17,7 @@
 	2. Offset Technique: Handling Negative Parameter Values
    		- Example: [Free Parentheses](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3679)
 	3. Parameter Drop (MLE/TLE avoidance)
+		- Example: [Star Adventure](https://community.topcoder.com/stat?c=problem_statement&pm=2940&rd=5854)
 	4. Using a Map as a memo table (MLE avoidance | Top-down)
 	5. Dimension Compression (MLE avoidance | Bottom-up)
 6. Classical Examples
@@ -31,10 +33,10 @@
 ## Material Resources
 | Resource                  | Points Covered                  |
 |:------------------------- |:--------------------------------|
-|CP section: 3.5            | All outline points           |
-|[TC DP from Novice to Advanced](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)            | 1,2,3        |
-|[HE Intro to DP](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/)            | 1,2,3,5        |
-|[G4G DP](https://www.geeksforgeeks.org/dynamic-programming/)            | All outline points          |
+| CLRS ch. 15 introduction | DP concepts |
+|CP section 3.5, 9.3       | 3, 4, 6           |
+|CP section 8.3            | 5: Tricks 1-4     |
+|[G4G: Basic Concepts section](https://www.geeksforgeeks.org/dynamic-programming/#concepts)            | 2, 3 |
 
 ---
 ## Problem Sets
