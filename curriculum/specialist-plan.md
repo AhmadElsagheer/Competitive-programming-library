@@ -1,6 +1,6 @@
 # Specialist Plan
 
-Duration: 37 acm days
+Duration: XX acm days
 
 Pracitce Style: topics + medium problems on basic topics in [pupil plan](https://github.com/AhmadElsagheer/Competitive-programming-library/blob/master/curriculum/pupil-plan.md) or previously discussed topics in the current plan.
 
@@ -48,10 +48,14 @@ Pracitce Style: topics + medium problems on basic topics in [pupil plan](https:/
     - Suffix trie
     
 ### Timeline
+| Day           | Category         | Topic  | General Problems |
+| :-----------: |:-------------:| :---------:|:--------------:|
+| 1 - 4 | Solving Techniques | [Dynamic Programming](outlines/solving_techniques/dp.md) | [gpset-1](outlines/general/specialists_gpsets.md#problem-set-1) |
+
+[Old Plan]
 
 | Day           | Topic         | Resources  | Problems on Topic | Extra Problems |
 | :-----------: |:-------------:| :---------:|:-----------------:|:--------------:|
-| 1 | [SP] Dynamic Programming | CP 3.5.1, 3.5.3, CLRS 15 | UVa [10130, 11341, 10313, 10036, 11420] | UVa [735, 10050, 567D], CF [60A, 291D] |
 | 2 | [SP] Dynamic Programming | CP 3.5.2, 9.3, 9.20 |  UVa [10667, 10534, 11284, 1096, 348] | CF [598D, 335A, 250C, 593B], UVa 11201 |
 | 3 | [SP] Dynamic Programming | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/) | UVa [1172, 116, 10911, 1238, 882] | CF [354A, 551C], UVa [10462, 837, 11267] |
 | 4 | [DS] Disjoint-sets Union | CP 2.4.2,	[Maximal](http://e-maxx.ru/algo/dsu) |  UVa [10583, 12460, 11474, 1197, 10608] | CF [75D, 254C, 229B, 404B], UVa 1250 |
