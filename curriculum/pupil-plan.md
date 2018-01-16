@@ -43,10 +43,10 @@ Practice Style: learning new topics + solving general problems.
 | :-----------: |:-------------:| :---------:|:--------------:|
 | 1 | Getting Started | [CP Environment](outlines/getting_started/cp_environment.md) | - |
 | 2-3 | Getting Started | [Just Adhoc!](outlines/getting_started/adhoc.md) | - |
-| 4 | Data Structures | [Linear Data Structures](outlines/data_structures/linear_ds.md) | TODO |
-| 5 | Data Structures | [Non-Linear Data Structures](outlines/data_structures/nonlinear_ds.md)  | TODO |
-| 6 | Data Structures | [Sortings](outlines/data_structures/sortings.md) | TODO |
-| 7-9 | Solving Techniques | [Brute Force](outlines/solving_techniques/brute_force.md) | TODO |
+| 4 | Data Structures | [Linear Data Structures](outlines/data_structures/linear_ds.md) | - |
+| 5 | Data Structures | [Non-Linear Data Structures](outlines/data_structures/nonlinear_ds.md)  | - |
+| 6 | Data Structures | [Sortings](outlines/data_structures/sortings.md) | - |
+| 7-9 | Solving Techniques | [Brute Force](outlines/solving_techniques/brute_force.md) | - |
 
 
 [Old Plan]
