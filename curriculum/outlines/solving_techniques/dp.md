@@ -48,7 +48,7 @@
 | [Chest of Drawers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2415) | | BigInteger | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v114/ChestOfDrawers_UVa11420.java) |
 |[Team Strategy](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2316)|  | direct 0-1 knapsack|[link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v113/TermStrategy_UVa11341.java)|
 |[Pay the Price](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1254)|  | modified coin change + 1D range sum |[link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v103/PayThePrice_UVa10313.java)|
-|[Divisibility](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=977)| modular arithmetic | |[link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v100/Divisibility_UVa10036.java)|
+|[Divisibility](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=977)| math | modular arithmetic |[link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v100/Divisibility_UVa10036.java)|
 | | | |  |
 |[Diving for Gold](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=652&page=show_problem&problem=931)|  | 0-1 knapsack + printing the solution |[link](https://github.com/omaryasser/UVA/blob/master/990%20-%20Diving%20for%20Gold.java)|
 | [Largest Block](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1608) | | Max 2D range sum |  |
