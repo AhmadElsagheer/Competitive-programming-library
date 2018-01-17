@@ -50,7 +50,7 @@ Pracitce Style: topics + medium problems on basic topics in [pupil plan](https:/
 ### Timeline
 | Day           | Category         | Topic  | General Problems |
 | :-----------: |:-------------:| :---------:|:--------------:|
-| 1 - 4 | Solving Techniques | [Dynamic Programming](outlines/solving_techniques/dp.md) | [gpset-1](outlines/general/specialists_gpsets.md#problem-set-1) |
+| 1 - 4 | Solving Techniques | [Dynamic Programming](outlines/solving_techniques/dp.md) | [gpset-1](outlines/general/specialists_gpsets.md#problem-set-1), [gpset-2](outlines/general/specialists_gpsets.md#problem-set-2), [gpset-3](outlines/general/specialists_gpsets.md#problem-set-3), [gpset-4](outlines/general/specialists_gpsets.md#problem-set-4) |
 
 [Old Plan]
 
