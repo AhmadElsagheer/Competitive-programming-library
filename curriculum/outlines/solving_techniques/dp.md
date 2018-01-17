@@ -54,22 +54,17 @@
 | [Largest Block](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1608) | | Max 2D range sum |  |
 | [Wavio Sequence](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1475) | | LIS in O(n log n) | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v105/WavioSequence_UVa10534.java) |
 | [Shopping Trip](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2259) | | TSP | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v112/ShoppingTrip_UVa11284.java) |
-| CF - 56D	Changing a String | | edit distance, print the solution | [link] |
+| [Changing a String](http://codeforces.com/problemset/problem/56/D) | | edit distance, print the solution | [link](http://codeforces.com/contest/56/submission/20707271) |
 | | | |  |
 | [The Islands](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3537) | | bitonic TSP | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v010/TheIslands_UVa1096.java) |
 | [Optimal Array Multiplication Sequence](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=284) | | matrix chain multiplication | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v003/OptimalArrayMultiplication_UVa348.java) |
-| UVa - 10626	Buying Coke | | dimension compression, parameter drop | [link] |
-| CF - 383D	Antimatter | | offset techinque, counting, nice technique: has D&C + DP solution, check editorial | [link] |
-| CF - 580D	Kefa and Dishes | | bitmasks | [link] |
-| UVa - 11368	Nested dolls | | LIS |  |
-| UVa - 10405	Longest Common Subsequence | | LCS | [link] |
-| UVa - 882	The Mailbox Manufacturers Problem | | | [link] |
-| CF - 33C	Wonderful Randomized Sum | | prefixes and suffixes | [link] |
-|CF - 137D	Palindromes  | | palindromes, two pointers, printing the solution | [link] |
-| CF - 75D	Big Maximum Sum | | max 1D range sum | [link] |
-
-### Problem Set #2
-
-| Problem        | Tags          | Notes  | Solution |
-|:------------- |:-------------|:-----|:--------|
-
+| [Buying Coke](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1567) | | dimension compression, parameter drop | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v106/BuyingCoke_UVa10626.java) |
+| [Antimatter](http://codeforces.com/problemset/problem/383/D) | | offset techinque, counting, nice technique: has D&C + DP solution, check editorial | [link](http://codeforces.com/contest/383/submission/24622355) |
+| [Kefa and Dishes](http://codeforces.com/problemset/problem/580/D) | | bitmasks | [link](http://codeforces.com/contest/580/submission/19468135) |
+| [Nested dolls](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2353) | | LIS |  [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v113/NestedDolls_UVa11368.java) |
+| | | |  |
+| [Longest Common Subsequence](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1346) | | LCS | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v104/LongestCommonSubsequence_UVa10405.java) |
+| [The Mailbox Manufacturers Problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=823) | | | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v008/TheMailboxManufacturersProblem_UVa882.java) |
+| [Wonderful Randomized Sum](http://codeforces.com/problemset/problem/33/C) | | prefixes and suffixes | [link](http://codeforces.com/contest/33/submission/20330347) |
+| [Palindromes](http://codeforces.com/problemset/problem/137/D)  | | palindromes, two pointers, printing the solution | [link](http://codeforces.com/contest/137/submission/23677640) |
+| [Big Maximum Sum](http://codeforces.com/problemset/problem/75/D) |  | 1D max range sum, prefix/suffix processing | [link](http://codeforces.com/contest/75/submission/20540466) |
