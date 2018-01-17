@@ -56,9 +56,7 @@ Pracitce Style: topics + medium problems on basic topics in [pupil plan](https:/
 
 | Day           | Topic         | Resources  | Problems on Topic | Extra Problems |
 | :-----------: |:-------------:| :---------:|:-----------------:|:--------------:|
-| 2 | [SP] Dynamic Programming | CP 3.5.2, 9.3, 9.20 |  UVa [10667, 10534, 11284, 1096, 348] | CF [598D, 335A, 250C, 593B], UVa 11201 |
-| 3 | [SP] Dynamic Programming | [TC tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/) | UVa [1172, 116, 10911, 1238, 882] | CF [354A, 551C], UVa [10462, 837, 11267] |
-| 4 | [DS] Disjoint-sets Union | CP 2.4.2,	[Maximal](http://e-maxx.ru/algo/dsu) |  UVa [10583, 12460, 11474, 1197, 10608] | CF [75D, 254C, 229B, 404B], UVa 1250 |
+| 4 | [DS] Disjoint-sets Union | CP 2.4.2,	[Maximal](http://e-maxx.ru/algo/dsu) |  UVa [10583, 12460, 11474, 1197, 10608] |  |
 | 5 | [DS] Sparse Table | CP 9.33 |  UVa [11235, 12674] | CF [38B, 667A], UVa [12192, 11515, 11824] |
 | 6 | [Graphs] Floyd-Warshall | CP 4.4.5 |  UVa [10525, 11047, 10171, 925, 439] |  CF 817C, UVa [10369, 10364, 11456, 10397] |
 | 7 | [Graphs] Bellman-Ford | CP 4.4.4 |  UVa [558, 10449, 10557, 11721] | CF [58C, 331A2], UVa [10318, 551, 12583] |
