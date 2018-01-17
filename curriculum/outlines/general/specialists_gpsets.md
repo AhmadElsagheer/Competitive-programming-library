@@ -34,7 +34,6 @@
 ### Problem Set 4
 | Problem           | Tags         | Notes  | Solution |
 | :-----------: |:-------------| :---------|:--------------:|
-| [Big Maximum Sum](http://codeforces.com/problemset/problem/75/D) | DP | 1D max range sum, prefix/suffix processing | [link](http://codeforces.com/contest/75/submission/20540466) |
 | [Anagram](http://codeforces.com/problemset/problem/254/C) | strings, greedy | | [link](http://codeforces.com/contest/254/submission/29208751) |
 | [Planets](http://codeforces.com/problemset/problem/229/B) | graphs | dijkstra, binary search, sets | [link](http://codeforces.com/contest/229/submission/28647246) |
 | [Marathon](http://codeforces.com/problemset/problem/404/B) | math | modular arithmetic | [link](http://codeforces.com/contest/404/submission/25475389) |
