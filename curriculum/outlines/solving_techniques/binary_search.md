@@ -46,6 +46,6 @@
 |:------------- |:-------------|:-----|:--------|
 |[Chain Reaction](http://codeforces.com/problemset/problem/607/A)|Finding Answer||[link](http://codeforces.com/contest/607/submission/17546217)|
 |[Hamburgers](http://codeforces.com/contest/371/problem/C)|Finding Answer||[link](http://codeforces.com/contest/371/submission/17824474)|
-|[Energy Exchange](http://codeforces.com/problemset/problem/68/B)||Binary Search using Doubles|[link]()|
+|[Energy Exchange](http://codeforces.com/problemset/problem/68/B)||Binary Search using Doubles|[link](http://codeforces.com/contest/68/submission/20514429)|
 |[K-Dominant Character](http://codeforces.com/contest/888/problem/C)||Needs Prefix Sums|[link](http://codeforces.com/contest/888/submission/32166894)|
 |[Exact Sum](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1998)|||[link](https://github.com/TheRealImaginary/CompetitiveProgramming/blob/master/UVA/UVA_11057_ExactSum.java)|
