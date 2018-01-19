@@ -18,7 +18,6 @@
 |:------------------------- |:--------------------------------|
 |CP Section 3.3  | Most of outline points|
 |[Topcoder Blog](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)|Monotonicity and Finding the answer|
-|[Quora Blog](https://tp-iiita.quora.com/Binary-Search)|Lower and Upper bounds and Monotonicity|
 
 ---
 ## Problem Sets
@@ -36,10 +35,10 @@
 | Problem        | Tags          | Notes  | Solution |
 |:------------- |:-------------|:-----|:--------|
 |[Sagheer and Nubian Market](http://codeforces.com/contest/812/problem/C)|Finding Answer||[link](http://codeforces.com/contest/812/submission/27728473)|
-|[]()|||[link]()|
-|[]()|||[link]()|
-|[]()|||[link]()|
-|[]()|||[link]()|
+|[Enduring Exodus](http://codeforces.com/problemset/problem/645/C)|||[link](http://codeforces.com/contest/645/submission/16786811)|
+|[Gukiz and Boxes](http://codeforces.com/problemset/problem/551/C)|||[link](http://codeforces.com/contest/551/submission/34331187)|
+|[Battle Fury](http://codeforces.com/gym/100247/problem/F)|||[link](https://ideone.com/g9OmIP)|
+|[String Game](http://codeforces.com/contest/779/problem/D)|||[link](http://codeforces.com/contest/779/submission/25077945)|
 
 ### Problem Set #3
 | Problem        | Tags          | Notes  | Solution |
