@@ -20,8 +20,7 @@
 
 | Problem        | Tags          | Notes  | Solution |
 |:------------- |:-------------|:-----|:--------|
-[Sales](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3701)
-|  Iterative | naive O(n^2) solution    |   |  |
+[Sales](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3701)|  Iterative | naive O(n^2) solution    |   |  |
 | [CD](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=565) |   Backtracking  |  |  |
 | [Sum it up](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=515) | Backtracking    | generate and test, printing all solutions  |  |
 | [Water Gate Management](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3768) | Bactracking    | knapsack  |  |
@@ -37,18 +36,6 @@
 | [The Golden Age](http://codeforces.com/problemset/problem/813/B) |  Iterative   |   calculate the correct Complexity |  |
 | [Non-square Equation](http://codeforces.com/contest/233/problem/B) |  Iterative   |  choose the correct variable for search   |  |
 | [8 Queens Chess Problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=691) | Backtracking    | printing all solutions  |  |
-|  |   |   |  |
-
-| UVa11085 |  Backtracking (8-Queens)  |   |  |
-| [T-Shirt Hunt](http://codeforces.com/contest/807/problem/B) |   Iterative  | Get the limit from the mod cycle  |  |
-
-| [Divisibility by Eight](http://codeforces.com/contest/550/problem/C) |   Bruteforce  | rule for divisibility by 8  |  |
+| [Sagheer, the Hausmeister](http://codeforces.com/contest/812/problem/B) | Iterative  |   | [link](https://ideone.com/egb6Vr) |
 
 
-### Problem Set #2
-| Problem        | Tags          | Notes  | Solution |
-|:------------- |:-------------|:-----|:-------|
-| CF-47-D | Backtracking   |   |  |
-| CF-122-A | Bruteforce   |   |  |
-| CF-22-B | Bruteforce   |   |  |
-| CF-812-B | Bruteforce   |   |  |
