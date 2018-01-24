@@ -11,12 +11,11 @@
 2. Binary search on uncommon data structures
 	- Example: "My Ancestor" problem
 3. Bisection method
-	- while loop implementation with `EPS`
-	- for loop implementation
+	- `while` loop implementation with `EPS`
+	- `for` loop implementation
 4. Main theorem
 	- variants in checker predicates (e.g. simulating using current guessed value)
 5. Binary Seach the Answer (monotonic functions)
-	- Monotonic functions.
 ---
 
 ## Material Resources
