@@ -1,16 +1,22 @@
 # Binary Search
 ---
 ## Outline
-1. Finding a value in a sorted sequence.
-	* Using Built-in methods (Collections and Arrays).  
-	* Duplicates.
-		* Finding first/last occurrence.
-	* Lower bound and Upper bound.
-2. Beyond Arrays
-	* Monotonicity.
-	* Simulating/Finding the answer using Binary Search.
-		* Handling doubles.
-
+1. Basic usage of binary search
+	- Examples
+		* finding an element in array of distinct values
+		* Arrays with duplicates (finding first/last occurence)
+		* lower and upper bounds
+	- Complexity
+	- Built-in methods (e.g. `Collections.binarySearch()`)
+2. Binary search on uncommon data structures
+	- Example: "My Ancestor" problem
+3. Bisection method
+	- while loop implementation with `EPS`
+	- for loop implementation
+4. Main theorem
+	- variants in checker predicates (e.g. simulating using current guessed value)
+5. Binary Seach the Answer (monotonic functions)
+	- Monotonic functions.
 ---
 
 ## Material Resources
