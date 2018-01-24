@@ -1,20 +1,21 @@
-
 # Greedy
 ---
 ## Outline
 1. What is Greedy
+    - Example: Activity-Selection problem
 2. Greedy Properties
-3. Greedy vs DP for exploring the problem state space graph.
-4. Discuss several standard well known greedy problems and prove their correctness. Use your judgment for problem count. Standard well known problems will be in problem set 1.
-5. Greedy as a subproblem ( Bruteforce/BinarySearch/etc + greedy).
-6. Stress testing the greedy solution. Explain how can you debug a greedy solution that you think is right by running it against a slow DP/Backtracking.
+    - Greedy-choice property
+    - Optimal Sub-structure
+3. Greedy failure
+    - Example: greedy coin change vs general coin change.
 
 ## Material Resources
 | Resource                  | Points Covered                  |
 |:------------------------- |:--------------------------------|
-| CP Section 3.4 | Greedy Section |
-| [ACP](https://www.youtube.com/watch?v=iXxP_liQklk&list=PLPt2dINI2MIbJYBTHmRuZuGLIP5PnkzMH) | The First 3 Videos |
-| [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/) | Greedy tutorial|
+| CLRS 16.1, 16.2 | 1, 2: greedy concepts |
+| CP Section 3.4 | 3: greedy failure |
+| [ACP](https://www.youtube.com/watch?v=iXxP_liQklk&list=PLPt2dINI2MIbJYBTHmRuZuGLIP5PnkzMH) | extra |
+| [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/) | extra |
 ---
 ## Problem Sets
 
