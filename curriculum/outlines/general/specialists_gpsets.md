@@ -38,3 +38,4 @@
 | [Planets](http://codeforces.com/problemset/problem/229/B) | graphs | dijkstra, binary search, sets | [link](http://codeforces.com/contest/229/submission/28647246) |
 | [Marathon](http://codeforces.com/problemset/problem/404/B) | math | modular arithmetic | [link](http://codeforces.com/contest/404/submission/25475389) |
 | [Robot Challenge](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3691) | DP | geometry, SSSP on DAG | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/1b9963e051c2a4ed4f11b33dc9bbdb60466e81f1/v012/RobotChallenge_UVa1250.java) |
+| [Bulls and Cows](http://codeforces.com/problemset/problem/63/C) | brute force | | [link](http://codeforces.com/contest/63/submission/20334184) |
