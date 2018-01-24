@@ -51,6 +51,10 @@ Pracitce Style: topics + medium problems on basic topics in [pupil plan](https:/
 | Day           | Category         | Topic  | General Problems |
 | :-----------: |:-------------:| :---------:|:--------------:|
 | 1 - 4 | Solving Techniques | [Dynamic Programming](outlines/solving_techniques/dp.md) | [gpset-1](outlines/general/specialists_gpsets.md#problem-set-1), [gpset-2](outlines/general/specialists_gpsets.md#problem-set-2), [gpset-3](outlines/general/specialists_gpsets.md#problem-set-3), [gpset-4](outlines/general/specialists_gpsets.md#problem-set-4) |
+| 5 | Data Structures | [Disjoint-Sets Union](outlines/data_structures/dsu.md) | [gpset-5](outlines/general/specialists_gpsets.md#problem-set-5) |
+| 6 | Data Structures | [Sparse Table](outlines/sparse_table.md) | [gpset-6](outlines/general/specialists_gpsets.md#problem-set-6) |
+| 7 | Data Structures | [Modified Stacks/Queues](outlines/modified_ds.md) | - |
+| 7 | Data Structures | [SQRT Decomposition](sqrt_deco.md) | [gpset-7](outlines/general/specialists_gpsets.md#problem-set-7) |
 
 [Old Plan]
 
