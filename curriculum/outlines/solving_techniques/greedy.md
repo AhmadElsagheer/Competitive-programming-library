@@ -39,8 +39,8 @@
 ### Problem Set #2
 | Problem        | Tags          | Notes  | Solution |
 |:------------- |:-------------|:-----|:-------|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+| [Ants](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1655) | | change your point of view! | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v107/Ants_UVa10714.java) |
+| [Fill the Square](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2515) | | gc: start with smallest char first | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v115/FillTheSquare_UVa11520.java) |
+| [Short Story Competition](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3926) | | gc: make each line as full as possible | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v124/ShortStoryCompetition_UVa12482.java) |
 |[Shoemaker's Problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=967)|| greedy selection for only 2 items. For n items, sort using the pairwise selection! |[link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v100/ShoemakersProblem_UVa10026.java)|
+| [Dynamic Frog](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2098) | | | [link]() |
