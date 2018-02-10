@@ -1,12 +1,25 @@
 # Brute Force
 ---
 ## Outline
-1. Iterative brute force
-2. Recursive brute force (Backtracking)
-    - Concepts: State, Transition and Optimization
+1. Search Space
+    - solutions, candidate solutions, generating solutions
+2. Iterative brute force
+    - UVa 725 - Division
+    - UVa 441 - Lotto: Subsets of size x
+    - UVa 11565 - Simple Equations: nested lopps & pruning
+3. Recursive brute force (Backtracking)
+    - Concepts: 
+        * State and Transition
+            - Search tree, base states, initial state
+        * Objective function and Optimization
+        * Constraints
     - Memoization
-        * Example: 8-Queens problem (using bitmasks)
-3. Tips for writing efficient brute force solutions
+        * Example: Knapsack problem
+    - More Examples:
+        * Subsets generation [with `used` array, with bitmasks, with constraints]
+        * Permutation generation [with `used` array, with bitmasks, with constraints]
+        * N- Queen problem [with pruning, O(1) no-attack check using 3 `used` arrays for col, left_dia, right_dia]
+4. Tips for writing efficient brute force solutions
 ---
 ## Material Resources
 | Resource                  | Points Covered                  |
