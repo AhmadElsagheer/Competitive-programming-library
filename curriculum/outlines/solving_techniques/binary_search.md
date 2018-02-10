@@ -30,7 +30,7 @@
 
 | Problem        | Tags          | Notes  | Solution |
 |:------------- |:-------------|:-----|:--------|
-|[The Playboy Chimp](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1552)| lower and upper bound||[link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v106/ThePlayboyChimp_UVa10611.java)|
+|[The Playboy Chimp](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1552)| | lower and upper bound |[link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v106/ThePlayboyChimp_UVa10611.java)|
 | [Where is the Marble?](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1415) | | basic usage | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v104/WhatIsTheMarble_UVa10474.java) | 
 | [Burning Midnight Oil](http://codeforces.com/contest/165/problem/B) | | BS the answer | [link](http://codeforces.com/contest/165/submission/14923055) |
 | [Fill the Containers](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2408) | | BS the answer, checker predicate| [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v114/FillTheContainers_UVa11413.java) |
