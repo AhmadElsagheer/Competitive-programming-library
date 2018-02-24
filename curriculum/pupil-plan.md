@@ -49,19 +49,23 @@ Practice Style: learning new topics + solving general problems.
 | 7-9 | Solving Techniques | [Brute Force](outlines/solving_techniques/brute_force.md) | - |
 | 10 | Solving Techniques | [Greedy](outlines/solving_techniques/greedy.md) | [gpset-1](outlines/general/pupils_gpsets.md#problem-set-1) |
 | 11 | Solving Techniques | [Sliding Window](outlines/solving_techniques/sliding_window.md) | [gpset-2](outlines/general/pupils_gpsets.md#problem-set-2) |
-| 12 | Solving Techniques | [Binary Search](outlines/solving_techniques/binary_search.md) | [gpset-3](outlines/general/pupils_gpsets.md#problem-set-2) |
+| 12 | Solving Techniques | [Binary Search](outlines/solving_techniques/binary_search.md) | [gpset-3](outlines/general/pupils_gpsets.md#problem-set-3) |
+| 13 | Graphs | [Structure and Traversal](outlines/graphs/graph_traversal.md) | [gpset-4](outlines/general/pupils_gpsets.md#problem-set-4) |
+| 14 - 17 | Graphs | [Basic Algorithms](outlines/graphs/basic_algos.md) | [gpset-5](outlines/general/pupils_gpsets.md#problem-set-5), [gpset-6](outlines/general/pupils_gpsets.md#problem-set-6), [gpset-7](outlines/general/pupils_gpsets.md#problem-set-7), [gpset-8](outlines/general/pupils_gpsets.md#problem-set-8) |
+| 18 | Graphs | [Minimum Spanning Tree](outlines/graphs/mst.md) | [gpset-9](outlines/general/pupils_gpsets.md#problem-set-9) |
+| 19 | Graphs | [Single-Source Shortest Path](outlines/graphs/sssp.md) | [gpset-10](outlines/general/pupils_gpsets.md#problem-set-10) |
+| 20 | Math | | [gpset-11](outlines/general/pupils_gpsets.md#problem-set-11) |
+| 21 | Math | | [gpset-12](outlines/general/pupils_gpsets.md#problem-set-12) |
+| 22 | Math | | [gpset-13](outlines/general/pupils_gpsets.md#problem-set-13) |
+| 23 | Geometry | | [gpset-14](outlines/general/pupils_gpsets.md#problem-set-14) |
+| 24 | Geometry | | [gpset-15](outlines/general/pupils_gpsets.md#problem-set-15) |
+| 25 | Geometry | | [gpset-16](outlines/general/pupils_gpsets.md#problem-set-16) |
+| 26 | Strings | | [gpset-17](outlines/general/pupils_gpsets.md#problem-set-17) |
 
 [Old Plan]
 
 | Day           | Topic         | Resources  | Problems on Topic | Extra Problems |
 | :-----------: |:-------------:| :---------:|:-----------------:|:--------------:|
-| 15 | [Graphs] Representation | CP 2.4.1 | UVa [11991, 10928, 599, 11550], CF 246D | CF [527A, 118B, 583A, 706B, 151A] |
-| 16 | [Graphs] Traversal | CP 4.2.1-2 | UVa [280, 12442], CF[277A, 115A, 61D] | CF [659A, 507A, 1B, 330A] |
-| 17 | [Graphs] Basic Algos | CP 4.2.3-4, [Wiki](https://en.wikipedia.org/wiki/Topological_sorting) | UVa [459, 11906, 11953, 626], CF 60B | CF [706A, 686A, 441A, 611A, 431A] |
-| 18 | [Graphs] Basic Algos | CP 4.2.5-7 | UVa [10305, 11060, 11396, 10505], CF 103B | CF [451A, 688A, 519C, 454A, 681A] |
-| 19 | [Graphs] Basic Algos | CP 4.2.8-9 | UVa [315, 610, 10199, 11709, 11504] | CF [688A, 519C, 454A, 681A, 552B] |
-| 20 | [Graphs] Minimum Spanning Tree | CP 4.3 | UVa [11631, 11733, 1235, 10099, 1234] | CF [450A, 676A, 462A, 255A, 546B] |
-| 21 | [Graphs] Single-Source Shortest Path | CP 4.4.1-3 | UVa [10986, 1112, 12160, 11487, 10356] | CF [276A, 501A, 545D, 401A, 573A] |
 | 22 | [Math] Adhoc Problems | CP 5.1, 5.2 | UVa [264, 113, 12318], CF [415B, 39H] | CF [672A, 702A, 570B, 384A, 496A] |
 | 23 | [Math] Adhoc Problems | CP 5.2 | UVa [10427, 107, 389, 202], CF 337C | CF [545A, 385A, 680A, 535A, 334A] |
 | 24 | [Math] Long Arithmetic | CP 5.3 | UVa[713, 11879, 10519, 1230, 10814] | CF [712A, 757A, 595A, 581B, 535B] |
