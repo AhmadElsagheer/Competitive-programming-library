@@ -32,9 +32,9 @@
 ### Problem Set 4
 | Problem           | Tags         | Notes  | Solution |
 | :-----------: |:-------------| :---------|:--------------:|
-| [Queue](http://codeforces.com/problemset/problem/545/D) | greedy | sortings  | [Link](http://codeforces.com/contest/545/submission/12347250)  |																									
+| [Queue](http://codeforces.com/problemset/problem/545/D) | greedy | sortings  | [link](http://codeforces.com/contest/545/submission/12347250)  |																									
 | [Books](http://codeforces.com/problemset/problem/279/B) | binary search, two pointers | | [link](http://codeforces.com/contest/279/submission/15561797) |
 | [The Lonesome Cargo Distributor](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1113) | queues | | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v101/TheLonesomeCargoDistributor_UVa10172.java) |
 | [T-Shirt Hunt](http://codeforces.com/contest/807/problem/B) | brute force | Get the limit from the mod cycle  | [link](http://codeforces.com/contest/807/submission/26964245) |
-| [Cooking Time](http://codeforces.com/problemset/gymProblem/101498/F) | greedy | | [Link](https://ideone.com/kbc7TV) |																									
+| [Cooking Time](http://codeforces.com/problemset/gymProblem/101498/F) | greedy | | [link](https://ideone.com/kbc7TV) |																									
 
