@@ -1,4 +1,4 @@
-# Minimum Spanning Tree  CP 4.3
+# Minimum Spanning Tree
 ---
 ## Outline
 1. Problem Definition
