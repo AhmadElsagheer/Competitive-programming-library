@@ -70,7 +70,7 @@ public class GraphTraversal {
 			{
 				System.out.printf("Edge from %d to %d is %s%n", u, v, "tree edge");
 				parent[v] = u;
-				dfs(v);
+				edgeType(v);
 			}
 			else
 				if(status[v] == VISITED)	//cross edges only occur in directed graph
