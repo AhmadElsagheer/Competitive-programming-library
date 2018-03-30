@@ -36,13 +36,13 @@ public class ConvexHullOptimization1 {
 	
 	long queryBS(long x)			// O(n log n)		-- TODO needs testing
 	{
-		long ans = A[0] * x + B[0];
+		int ans = 0;
 		int lo = 1, hi = len - 1;
 		while(lo <= hi)
 		{
 			int mid = lo + hi >> 1;
-			long cur = A[mid] * x + B[mid]; 
-			if(cur <= ans)
+			// if intersect_x(mid, mid - 1) <= x, then ans = mid & search for higher
+			if(B[mid] - B[mid - 1] <= x * (A[mid - 1] - A[mid]))
 			{
 				ans = cur;
 				lo = mid + 1;
@@ -50,6 +50,6 @@ public class ConvexHullOptimization1 {
 			else
 				hi = mid - 1;
 		}
-		return ans;
+		return A[ans] * x + B[ans];
 	}
 }
