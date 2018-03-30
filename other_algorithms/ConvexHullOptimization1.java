@@ -19,7 +19,7 @@ public class ConvexHullOptimization1 {
 	void addLine(long a, long b)		// O(n) with amortized complexity
 	{
 		while(len >= 2 && 
-			 (A[len - 1] - A[len - 2]) * (B[len - 1] - b) <= (A[len - 1] - a) * (B[len - 1] - B[len - 2]))
+			 (A[len - 2] - A[len - 1]) * (b - B[len - 1]) <= (A[len - 1] - a) * (B[len - 1] - B[len - 2]))
 			--len;
 		A[len] = a;
 		B[len] = b;
