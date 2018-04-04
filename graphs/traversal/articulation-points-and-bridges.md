@@ -38,12 +38,12 @@ Let's call this lowest time for _u_ as _dfsLow[u]_ and it is initially equal to 
 - For a tree edge from _u_ to _v_, then it is minimized using _dfsLow[v]_. 
 
 ### How to find articulation points ?
-For node _u_, if there exists a child _v_ such that _dfsNum[u] >= dfsLow[v]_, then _v_ cannot visit nodes with time less than
+For node _u_, if there exists a child _v_ such that _dfsNum[u] <= dfsLow[v]_, then _v_ cannot visit nodes with time less than
 _dfsNum[u]_ if _u_ is removed from the graph. In this case, _u_ is an articulation point.
 
 Note that there is a special case when _u_ is the root of the tree.
 
 ### How to find bridges ?
-For node _u_, if there exists a child _v_ such that _dfsNum[u] > dfsLow[v]_, then _v_ cannot visit _u_ if the edge from
+For node _u_, if there exists a child _v_ such that _dfsNum[u] < dfsLow[v]_, then _v_ cannot visit _u_ if the edge from
 _u_ -> _v_ is removed from the graph. In this case, edge _u_ -> _v_ is a bridge.
 
