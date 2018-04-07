@@ -27,15 +27,18 @@ public class SegmentTree2D {    // subrectangle sum, point update
 
     void buildY(int vx, int lx, int rx, int vy, int ly, int ry)
     {
-        if(ly == ry)
+        if(ly == ry) {
             if(lx == rx)
             {
                 if(lx <= matrix.length && ly <= matrix[0].length)
                     tree[vx][vy] = matrix[lx - 1][ly - 1];
-                return;
+                
             }
             else
                 tree[vx][vy] = tree[vx << 1][vy] + tree[vx << 1 | 1][vy];
+            return;
+        }
+        
         int mid = (ly + ry) >> 1;
         buildY(vx, lx, rx, vy << 1, ly, mid);
         buildY(vx, lx, rx, vy << 1 | 1, mid + 1, ry);
