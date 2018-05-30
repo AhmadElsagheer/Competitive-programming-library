@@ -7,8 +7,8 @@ import java.util.ArrayList;
  */
 public class PoliceAndThief {
 
-	static final int[] dx = new int[] {0, 0, -1, 1, -1, 1, -1, 1};
-	static final int[] dy = new int[] {-1, 1, 0, 0, -1, 1, 1, -1};
+	static final int[] dx = new int[] {0, 0, 0, -1, 1, -1, 1, -1, 1};
+	static final int[] dy = new int[] {0, -1, 1, 0, 0, -1, 1, 1, -1};
 
 	static final int POLICE = 0, THIEF = 1;
 	static int R, C;
@@ -52,10 +52,13 @@ public class PoliceAndThief {
 					deg[state] = 1;
 					
 					// Add edges for other moves
-					for(int k = 0, end = turn == POLICE ? 8 : 4; k < end; ++k)
+					int pk = turn == POLICE ? 1 : 0;
+					int tk = turn == THIEF ? 1 : 0;
+					for(int k = 1, end = turn == POLICE ? 8 : 4; k <= end; ++k)
 					{
-						int ppx = px + dx[k], ppy = py + dy[k];
-						int ttx = tx + dx[k], tty = py + dy[k];
+						
+						int ppx = px + dx[k * pk], ppy = py + dy[k * pk];
+						int ttx = tx + dx[k * tk], tty = ty + dy[k * tk];
 						if(valid(ppx, ppy) && valid(ttx, tty))
 						{
 							nxtState = mapState(ppx * C + ppy, ttx * C + tty, turn ^ 1);
@@ -73,7 +76,7 @@ public class PoliceAndThief {
 		 */
 	}
 	
-	static boolean valid(int x, int y) { return x >= 0 && y >= 0 && x < R && y < R && grid[x][y] != '#'; }
+	static boolean valid(int x, int y) { return x >= 0 && y >= 0 && x < R && y < C && grid[x][y] != '#'; }
 
 	static int mapState(int p, int t, int turn) { return (p * R * C + t) * 2 + turn; }
 }
