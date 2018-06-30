@@ -20,9 +20,7 @@ public class LineSweep
 			points[i] = new Point(sc.nextInt(), sc.nextInt());		
 		Arrays.sort(points, new X());
 		
-		cands.add(points[0]);
-		double d = 1e9;
-		
+		double d = 1e9;		
 		for(int i = 1, left = 0; i < points.length; i++)
 		{
 			int px = points[i].x, py = points[i].y;
