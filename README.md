@@ -1,5 +1,5 @@
 # Competitive Programming Library
-Code library for competitive programming purposes.
+Code libraries for competitive programming purposes.
 
 ### Contents
 - Curriculum: Practice plans for different levels.
@@ -59,7 +59,7 @@ Code library for competitive programming purposes.
   - Manacher
 - Other Algorithms
 
-### Related Material
+### Related Materials
 - [Topics Sheet](https://docs.google.com/spreadsheets/d/1tLEm58_2bQgM7qhATSjN0fGbdLLtaOCjUFnTGniHbjI): Different resources for competitive programming topics.
 - [Problems Sheet](https://docs.google.com/spreadsheets/d/1blSbPr1pAFZSzlAi2IVdTeytz2yO7Ejx9SeQWOSxY0w): Manual categorization for a large number of problems on different online judges. This includes estimated difficulty, tags and other notes.
 - [UVa-Solutions](https://github.com/AhmadElsagheer/UVa-Solutions): Java solutions for most of the problems I solved on UVa online Judge. Codeforces submissions are not uploaded because they can be accessed by anyone. If you need solutions for problems in the Problems Sheet and on another online judge, tell me about them.
