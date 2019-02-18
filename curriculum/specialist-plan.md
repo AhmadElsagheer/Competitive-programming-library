@@ -7,7 +7,7 @@ Pracitce Style: topics + medium problems on basic topics in [pupil plan](https:/
 ### Content
 
 - Data Structures
-    - Dsijoint-sets union
+    - Disjoint-sets union
     - Segment Trees
     - Fenwick Trees
     - Sparse Table
