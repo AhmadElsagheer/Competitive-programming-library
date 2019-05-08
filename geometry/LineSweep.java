@@ -21,7 +21,7 @@ public class LineSweep
 		Arrays.sort(points, new X());
 		
 		double d = 1e9;		
-		for(int i = 1, left = 0; i < points.length; i++)
+		for(int i = 0, left = 0; i < points.length; i++)
 		{
 			int px = points[i].x, py = points[i].y;
 			while(left < i && px - points[left].x > d + EPS) cands.remove(points[left++]);
