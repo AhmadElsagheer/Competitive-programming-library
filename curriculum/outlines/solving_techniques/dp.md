@@ -50,8 +50,8 @@
 |[Pay the Price](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1254)|  | modified coin change + 1D range sum |[link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v103/PayThePrice_UVa10313.java)|
 |[Divisibility](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=977)| math | modular arithmetic |[link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v100/Divisibility_UVa10036.java)|
 | | | |  |
-|[Diving for Gold](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=652&page=show_problem&problem=931)|  | 0-1 knapsack + printing the solution |[link](https://github.com/omaryasser/UVA/blob/master/990%20-%20Diving%20for%20Gold.java)|
-| [Largest Block](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1608) | | Max 2D range sum |  |
+|[Diving for Gold](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=652&page=show_problem&problem=931)|  | 0-1 knapsack + printing the solution | [link](https://github.com/omaryasser/Competitive-Programming/blob/master/Solutions/UVA%20Solutions/990%20-%20Diving%20for%20Gold.java) |
+| [Largest Block](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1608) | | Max 2D range sum | [link](https://github.com/omaryasser/Competitive-Programming/blob/master/Solutions/UVA%20Solutions/10667%20-%20Largest%20Block.java) |
 | [Wavio Sequence](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1475) | | LIS in O(n log n) | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v105/WavioSequence_UVa10534.java) |
 | [Shopping Trip](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2259) | | TSP | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v112/ShoppingTrip_UVa11284.java) |
 | [Changing a String](http://codeforces.com/problemset/problem/56/D) | | edit distance, print the solution | [link](http://codeforces.com/contest/56/submission/20707271) |
