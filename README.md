@@ -2,7 +2,7 @@
 Code library for competitive programming purposes.
 
 ### Contents
-- Curriculum: Practice plans for different levels.
+- [Curriculum](curriculum): Practice plans for different levels.
 - [Data Structures](data_structures)
   - [Bitmasks](data_structures/linear/Bitmask.java)
   - [Sortings](data_structures/sortings)
