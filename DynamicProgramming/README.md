@@ -3,7 +3,7 @@
 
 |Problem's| Solution |
 |:---------:|:----------:|
-|BoardPath|[BoardPath.java ](https://github.com/Kushal997-das/CODE/blob/master/DynamicProgramming/BoardPath.java)|
+|BoardPath|[BoardPath.java ](https://github.com/Kushal997-das/Competitive-programming-library/blob/master/DynamicProgramming/BoardPath.java)|
 |CoinChange|[CoinChange.java](https://github.com/Kushal997-das/CODE/blob/master/DynamicProgramming/CoinChange.java)|
 |EditDistance|[EditDistance.java ](https://github.com/Kushal997-das/CODE/blob/master/DynamicProgramming/EditDistance.java)|
 |EggDropping|[EggDropping.java ](https://github.com/Kushal997-das/CODE/blob/master/DynamicProgramming/EggDropping.java)|
