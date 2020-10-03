@@ -59,7 +59,19 @@ Code library for competitive programming purposes.
   - Manacher
   
 - [DynamicProgramming](DynamicProgramming)
-  - [BoardPath.java ](https://github.com/Kushal997-das/Competitive-programming-library/blob/master/DynamicProgramming/BoardPath.java)
+  - [readme](DynamicProgramming/README.md)
+    - [BoardPath.java ](https://github.com/Kushal997-das/Competitive-programming-library/blob/master/DynamicProgramming/BoardPath.java)
+    - [coinChange.java ](https://github.com/Kushal997-das/Competitive-programming-library/blob/master/DynamicProgramming/CoinChange.java)
+    - [CountNumBinaryStrings.java](https://github.com/Kushal997-das/Competitive-programming-library/blob/master/DynamicProgramming/CountNumBinaryStrings.java)
+    - [EditDistance.java](https://github.com/Kushal997-das/Competitive-programming-library/blob/master/DynamicProgramming/EditDistance.java)
+    - [EggDropping.java](https://github.com/Kushal997-das/Competitive-programming-library/blob/master/DynamicProgramming/EggDropping.java)
+    - [Fibonacci.java](https://github.com/Kushal997-das/Competitive-programming-library/blob/master/DynamicProgramming/Fibonacci.java)
+    - [FordFulkerson.java](https://github.com/Kushal997-das/Competitive-programming-library/blob/master/DynamicProgramming/FordFulkerson.java)
+    - [KadaneAlgorithm.java](https://github.com/Kushal997-das/Competitive-programming-library/blob/master/DynamicProgramming/KadaneAlgorithm.java)
+    - [Knapsack.java](https://github.com/Kushal997-das/Competitive-programming-library/blob/master/DynamicProgramming/Knapsack.java)
+    - [LongestCommonSubsequence.java](https://github.com/Kushal997-das/Competitive-programming-library/blob/master/DynamicProgramming/LongestCommonSubsequence.java)
+    - [SubsetSum.java](https://github.com/Kushal997-das/Competitive-programming-library/blob/master/DynamicProgramming/SubsetSum.java)
+
 
 - Other Algorithms
 
