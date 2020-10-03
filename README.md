@@ -57,6 +57,10 @@ Code library for competitive programming purposes.
   - Aho Corasick
   - Z Algorithm
   - Manacher
+  
+- [DynamicProgramming](DynamicProgramming)
+  
+
 - Other Algorithms
 
 ### Related Material
