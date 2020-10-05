@@ -1,41 +1,77 @@
-package data_structures.sortings;
+/* Merge Sort Iterative Implementation In C++
 
-public class MergeSort
+  complexity : O(n)
+
+*/
+#include<bits/stdc++.h>
+using namespace std;
+#define M 10
+void input(int *a)
 {
-	/*
-	 * - Complexity O(n log n)
-	 * - Stable sort algorithm
-	 * - Can be used to compute inversion index
-	 */
-	static final int INF = Integer.MAX_VALUE;
-	
-	static void mergeSort(int[] a, int b, int e)
-	{
-		if(b < e)
-		{
-			int q = (b + e) / 2;
-			mergeSort(a, b, q);
-			mergeSort(a, q + 1, e);
-			merge(a, b, q, e);
-		}
-	}
-
-
-    static void merge(int[] a, int b, int mid, int e)
+    cout<<"\nArray : ";
+    for(int i=0;i<M;i++)
+        cin >> a[i];
+}
+void merge(int *a)
+{
+    int tmp[M],i,j,k,size=1;
+    int l1,u1,l2,u2;
+    while(size<M)
     {
-       int n1 = mid - b + 1;
-       int n2 = e - mid;
-       int[] L = new int[n1+1], R = new int[n2+1];
-       
-       for(int i = 0; i < n1; i++)  L[i] = a[b + i];
-       for(int i = 0; i < n2; i++)  R[i] = a[mid + 1 + i];
-       L[n1] = R[n2] = INF;
-       
-       for(int k = b, i = 0, j = 0; k <= e; k++)
-    	   if(L[i] <= R[j])
-    		   a[k] = L[i++];
-    	   else
-    		   a[k] = R[j++];
-    }  
+        k=0;
+        l1=0;
+        while(l1+size<M)
+        {
+            l2=l1+size;
+            u1=l2-1;
+            if(l2+size<M)
+                u2=l2+size-1;
+            else
+                u2=M-1;
 
- }
+            //Comparisions
+            for(i=l1,j=l2;i<=u1&&j<=u2;k++)
+            {
+                if(a[i]<a[j])
+                    tmp[k]=a[i++];
+                else
+                    tmp[k]=a[j++];
+            }
+
+            //Remaining Elements
+            for(;i<=u1;i++)
+                tmp[k++]=a[i];
+            for(;j<=u2;j++)
+                tmp[k++]=a[j];
+
+            l1=u2+1;
+
+        }
+        for(int i=l1;i<M;i++)
+            tmp[k++]=a[i];
+        for(int i=0;i<M;i++)
+            a[i]=tmp[i];
+
+        //doubling Size
+        size*=2;
+
+    }
+}
+void display(int *a)
+{
+    cout<<"\nArray : ";
+    for(int i=0;i<M;i++)
+        cout<<a[i]<<' ';
+}
+int main()
+{
+    //Sample size M = 10
+    //Array of size 10
+    int x[M];
+    input(x);
+    cout<<"\nBefore sorting : ";
+    display(x);
+    cout<<"\nAfter sorting : ";
+    merge(x);
+    display(x);
+}
