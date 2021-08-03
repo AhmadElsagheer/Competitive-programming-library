@@ -30,7 +30,7 @@
 | [All in All](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1281) | | greedy choice: for each char in _t_, match with leftmost valid char in _s_ | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v103/AllInAll_UVa10340.java) |
 |[Boiled Eggs](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3051)|| gc: pick the lightest egg first |[link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v119/BoiledEggs_UVa11900.java)|
 | [Scarecrow](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3836) | | gc: put scarecrows from left to right each covering an uncovered range without leaving cells empty | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v124/Scarecrow_UVa12405.java) |
-| [Dragons](http://codeforces.com/contest/230/submission/11367857) | sortings | gc: kill weakest dragons first | [link](http://codeforces.com/contest/230/submission/11367857) |
+| [Dragons](http://codeforces.com/contest/230/problem/A) | sortings | gc: kill weakest dragons first | [link](http://codeforces.com/contest/230/submission/11367857) |
 | [Jeopardy!](http://codeforces.com/problemset/problem/413/C) | sortings | gc: answer regular questions first, then auction questions from larger to smaller | [link](http://codeforces.com/contest/413/submission/24717142) |
 | [Gas Stations](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3743) | | interval covering | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/3d54f533edc19cce6bf4406ee6934a571c11fcaf/v123/GasStations_12321.java)|
 
