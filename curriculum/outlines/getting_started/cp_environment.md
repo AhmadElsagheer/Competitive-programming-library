@@ -33,7 +33,7 @@
 |:------------- |:-------------|:-----|:--------|
 | [Next Round](http://codeforces.com/contest/158/problem/A) |       |     | [link](http://codeforces.com/contest/158/submission/9439064) |
 | [Buy a Shovel](http://codeforces.com/contest/732/problem/A) |       |     | [link](http://codeforces.com/contest/732/submission/21533265) |
-| [Beautiful Matrix](http://codeforces.com/contest/263/problem/A) |       |     | [link](http://codeforces.com/contest/263/submission/12431609) |
+| [Beautiful Matrix](http://codeforces.com/contest/263/problem/A) |       |     | [link](https://codeforces.com/contest/263/submission/162590173) |
 | [Is it Rated?](http://codeforces.com/contest/807/problem/A) |       |     | [link](http://codeforces.com/contest/807/submission/26927293) |
 | [Beautiful Year](http://codeforces.com/problemset/problem/271/A) |       |     | [link](http://codeforces.com/contest/271/submission/14757983) |
 
